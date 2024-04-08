@@ -4,6 +4,9 @@
 #
 # ##############################################################################
 
+# Personal wd setup
+setwd("/home/kaelyn/Desktop/Work/crc_meta/src")
+
 # Packages
 library('vegan')
 library('tidyverse')

@@ -92,7 +92,7 @@ for (f in row.names(feat.all)) {
   # calculate effect size for all studies combined
   # Wilcoxon + blocking factor
   d <- data.frame(y=feat.all[f,], 
-                  x=meta$Group, block=meta$block)
+                  x=as.factor(meta$Group), block=as.factor(meta$block))
   p.val[f,'all'] <- pvalue(wilcox_test(y ~ x | block, data=d))
   # other metrics
   x <- feat.all[f, meta %>% filter(Group=='CRC') %>% pull(Sample_ID)]
@@ -132,7 +132,7 @@ if (tag == 'species'){
   ancom.w.mat <- matrix(NA, nrow=nrow(p.val), ncol=ncol(p.val)+1,
                         dimnames = list(rownames(p.val), 
                                         c(colnames(p.val), 'all-blocked')))
-  fn.feat <- '../data/species/feat_ab_all.tsv' 
+  fn.feat <- '../data/species/feat_ab_crc.tsv' 
   ## ancom seems to need absolute abudnances
   feat.all <- as.matrix(read.table(fn.feat, sep='\t', header=TRUE, 
                                    stringsAsFactors = FALSE, 
