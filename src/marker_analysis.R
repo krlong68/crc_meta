@@ -91,9 +91,12 @@ for (f in row.names(feat.all)) {
   
   # calculate effect size for all studies combined
   # Wilcoxon + blocking factor
+  #d <- data.frame(y=feat.all[f,], 
+  #                x=as.factor(meta$Group), block=as.factor(meta$block))
+  #p.val[f,'all'] <- pvalue(wilcox_test(y ~ x | block, data=d))
   d <- data.frame(y=feat.all[f,], 
-                  x=as.factor(meta$Group), block=as.factor(meta$block))
-  p.val[f,'all'] <- pvalue(wilcox_test(y ~ x | block, data=d))
+                  x=as.factor(meta$Group))
+  p.val[f,'all'] <- pvalue(wilcox_test(y ~ x, data=d))
   # other metrics
   x <- feat.all[f, meta %>% filter(Group=='CRC') %>% pull(Sample_ID)]
   y <- feat.all[f, meta %>% filter(Group=='CTR') %>% pull(Sample_ID)]
@@ -171,15 +174,15 @@ if (tag == 'species'){
                        select(Age, Gender, BMI, Study, Group, block) %>% 
                        as.data.frame)
   # blocked all
-  temp <- ANCOM.main(OTUdat = data.test, Vardat = meta.test, adjusted=TRUE, 
-                     repeated = FALSE, main.var='Group', adj.formula = 'block', 
-                     repeat.var=NULL, longitudinal = FALSE, 
-                     random.formula = NULL, multcorr = 2, sig=0.05, 
-                     prev.cut = 0.99)
-  ancom.results[['all']] <- temp$W.taxa
-  ancom.w.mat[match(temp$W.taxa$otu.names, 
-                    make.names(rownames(ancom.w.mat))),'all'] <- 
-    temp$W.taxa$W_stat
+  #temp <- ANCOM.main(OTUdat = data.test, Vardat = meta.test, adjusted=TRUE, 
+  #                   repeated = FALSE, main.var='Group', adj.formula = 'block', 
+  #                   repeat.var=NULL, longitudinal = FALSE, 
+  #                   random.formula = NULL, multcorr = 2, sig=0.05, 
+  #                   prev.cut = 0.99)
+  #ancom.results[['all']] <- temp$W.taxa
+  #ancom.w.mat[match(temp$W.taxa$otu.names, 
+  #                  make.names(rownames(ancom.w.mat))),'all'] <- 
+  #  temp$W.taxa$W_stat
   
   # save ancom results
   write.table(ancom.w.mat, file=paste0('../files/', tag, '/ancom_w.tsv'),
