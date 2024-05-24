@@ -18,6 +18,20 @@ original_study_metadata <- uncurated_metadata %>%
 curated_study_metadata <- cMD_curated_meta %>%
     filter(study_name == "WirbelJ_2018")
 
+# AT/CN cMD vs. native IDs
+AT_cMD <- cMD_curated_meta %>%
+    filter(pmid == 25758642) %>%
+    pull(sample_id)
+CN_cMD <- cMD_curated_meta %>%
+    filter(pmid == 26408641) %>%
+    pull(sample_id)
+AT_native <- meta.all %>%
+    filter(Study == "AT-CRC") %>%
+    pull(External_ID)
+CN_native <- meta.all %>%
+    filter(Study == "CN-CRC") %>%
+    pull(External_ID)
+
 # Get meta.all from prepare_data.R
 use_ids <- intersect(meta.crc$Sample_ID, uncurated_metadata$sample_id)
 
