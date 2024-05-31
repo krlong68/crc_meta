@@ -84,7 +84,7 @@ run for different sets of features, e.g. `KEGG` functional profiles and
 species-level taxonomic profiles.
 
 ```bash
-Rscript marker_analysis.R KEGG
+#Rscript marker_analysis.R KEGG
 Rscript marker_analysis.R species
 ```
 

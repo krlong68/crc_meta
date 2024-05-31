@@ -12,11 +12,11 @@ library("yaml")
 
 theme_set(theme_gray())
 
-args = commandArgs(trailingOnly=TRUE)
-if (length(args)==0) {
-  stop("The analysis tag needs to be provided! Exiting...\n")
-}
-tag <- args[1]
+#args = commandArgs(trailingOnly=TRUE)
+#if (length(args)==0) {
+#  stop("The analysis tag needs to be provided! Exiting...\n")
+#}
+tag <- "species"
 
 
 parameters <- yaml.load_file('../parameters.yaml')
