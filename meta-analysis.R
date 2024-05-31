@@ -26,6 +26,7 @@ collected_studies <- curatedMetagenomicData(pattern,
                                             dryrun = FALSE)
 all_assays <- lapply(collected_studies, function(x) as.data.frame(t(assays(x)$relative_abundance)))
 comb_assays <- t(bind_rows(all_assays))
+comb_assays[is.na(comb_assays)] <- 0
 
 # Step 3. Collect curated metadata for all samples
 samples <- colnames(comb_assays)
@@ -49,7 +50,13 @@ study_colors <- list("#D962BA", "#FF9774", "#F2CC30", "#74B347", "#177254",
 names(study_colors) <- studies
 
 # Step 5. Run
+# marker_analysis.R
+feat.all <- comb_assays
+meta <- f_meta
 
+# figure_marker_heatmap.R
+ref.studies <- studies
+study.colors <- study_colors
 ########################################
 
 #cMD_curated_meta <- read.csv("/home/kaelyn/Desktop/Work/OmicsMLRepoData/inst/extdata/cMD_curated_metadata_all.csv")

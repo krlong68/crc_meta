@@ -21,6 +21,7 @@ tag <- "species"
 
 parameters <- yaml.load_file('../parameters.yaml')
 ref.studies <- parameters$ref.studies
+study.colors <- parameters$plotting$study.cols
 start.time <- proc.time()[1]
 
 # ##############################################################################
@@ -141,10 +142,18 @@ g1 <- tibble(species=factor(rownames(p.vals.plot),
 
 g.lst <- lapply(ref.studies, plot.single.study.heatmap)
 
+#pdf(paste0('../figures/', tag, '/fold_change_heatmap.pdf'), 
+#    width = 10, height = 6, useDingbats = FALSE)
+#plot_grid(g1, g.lst[[1]], g.lst[[2]], g.lst[[3]], g.lst[[4]],g.lst[[5]], 
+#          ncol=1, align = 'v', rel_heights = c(0.3,rep(0.12, 5)))
+
+# for cMD run
 pdf(paste0('../figures/', tag, '/fold_change_heatmap.pdf'), 
-    width = 10, height = 6, useDingbats = FALSE)
-plot_grid(g1, g.lst[[1]], g.lst[[2]], g.lst[[3]], g.lst[[4]],g.lst[[5]], 
-          ncol=1, align = 'v', rel_heights = c(0.3,rep(0.12, 5)))
+    width = 10, height = 11, useDingbats = FALSE)
+plot_grid(g1, g.lst[[1]], g.lst[[2]], g.lst[[3]], g.lst[[4]],g.lst[[5]],
+          g.lst[[6]], g.lst[[7]], g.lst[[8]], g.lst[[9]],g.lst[[10]],
+          ncol=1, align = 'v', rel_heights = c(0.3,rep(0.12, 10)))
+
 dev.off()
 
 cat('Successfully plotted marker heatmap in',
@@ -198,7 +207,7 @@ g <- df.plot %>%
           axis.ticks.x = element_blank(),
           axis.text.x = element_blank(),
           strip.text = element_text(angle=90, hjust=0)) + 
-    scale_fill_manual(values=unlist(parameters$plotting$study.cols), 
+    scale_fill_manual(values=unlist(study.colors), 
                       guide=FALSE) + 
     ylab('AUROC') + xlab('Gut microbial species')
 
