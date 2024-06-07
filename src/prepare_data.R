@@ -4,10 +4,6 @@
 #
 # ##############################################################################
 
-# Personal wd setup
-setwd("/home/kaelyn/Desktop/Work/crc_meta/src")
-options(timeout = 1000)
-
 # Packages
 library('vegan')
 library('tidyverse')

@@ -17,15 +17,16 @@ start.time <- proc.time()[1]
 
 set.seed(2018)
 
-args = commandArgs(trailingOnly=TRUE)
-if (length(args)==0) {
-  stop("The analysis tag needs to be provided! Exiting...\n")
-}
-tag <- args[1]
+#args = commandArgs(trailingOnly=TRUE)
+#if (length(args)==0) {
+#  stop("The analysis tag needs to be provided! Exiting...\n")
+#}
+tag <- "species"
 
 
 parameters <- yaml.load_file('../parameters.yaml')
 # extract parameters
+#ref.studies <- parameters$ref.studies
 norm.method <- parameters$model.building$norm.method
 n.p <- list(log.n0=ifelse(tag %in% c('species', 'genus'),
                           as.numeric(parameters$model.building$log.n0),
@@ -69,7 +70,7 @@ stopifnot(all(meta$Sample_ID %in% colnames(feat.all)))
 # ##############################################################################
 # Model Building
 models <- list()
-for (study in parameters$ref.studies){
+for (study in ref.studies){
   # single study model
   meta.train <- meta %>%
     filter(Study == study)
@@ -88,8 +89,8 @@ for (study in parameters$ref.studies){
                                num.resample = num.resample)
   siamcat <- train.model(siamcat,
                          method = ml.method,
-                         modsel.crit=modsel.crit,
-                         min.nonzero.coeff = min.nonzero.coeff,
+                         measure="classif.prauc",
+                         min.nonzero = min.nonzero.coeff,
                          perform.fs = perform.fs,
                          param.fs = param.fs.ss)
   siamcat <- make.predictions(siamcat)
@@ -117,8 +118,8 @@ for (study in parameters$ref.studies){
                                num.resample = num.resample)
   siamcat <- train.model(siamcat,
                          method = ml.method,
-                         modsel.crit=modsel.crit,
-                         min.nonzero.coeff = min.nonzero.coeff,
+                         measure="classif.precision",
+                         min.nonzero = min.nonzero.coeff,
                          perform.fs = perform.fs,
                          param.fs = param.fs.loso)
   siamcat <- make.predictions(siamcat)
@@ -133,11 +134,11 @@ for (study in parameters$ref.studies){
 # ##############################################################################
 # make Predictions
 pred.matrix <- matrix(NA, nrow=nrow(meta), 
-                      ncol=length(parameters$ref.studies)+1, 
+                      ncol=length(ref.studies)+1, 
                       dimnames = list(meta$Sample_ID, 
-                                      c(parameters$ref.studies, 'LOSO')))
+                                      c(ref.studies, 'LOSO')))
 
-for (study in parameters$ref.studies){
+for (study in ref.studies){
   
   # load model
   siamcat <- models[[study]]
@@ -145,7 +146,7 @@ for (study in parameters$ref.studies){
   pred.matrix[names(temp), study] <- temp
   
   # predict other studies
-  for (study_ext in setdiff(parameters$ref.studies, study)){
+  for (study_ext in setdiff(ref.studies, study)){
     
     meta.test <- meta %>%
       filter(Study == study_ext)
@@ -168,7 +169,7 @@ for (study in parameters$ref.studies){
 
 # ##############################################################################
 # make LOSO Predictions
-for (study in parameters$ref.studies){
+for (study in ref.studies){
   
   # load model
   siamcat <- models[[paste0(study, '_LOSO')]]

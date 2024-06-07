@@ -12,7 +12,7 @@ cluster.associations <- function(features, meta.data, conf,
   # assert compatability
   stopifnot(all(meta.data$Sample_ID %in% colnames(features)))
   meta.data <- meta.data %>% filter(Sample_ID %in% colnames(features))
-  stopifnot(unique(c(features)) == c(0, 1))
+  stopifnot(sort(unique(c(features))) == c(0, 1))
   
   # take out all without conf data
   meta.data <- meta.data %>% 
@@ -27,7 +27,7 @@ cluster.associations <- function(features, meta.data, conf,
   
   if (!is.null(clustering)){
     features.red <- t(sapply(unique(clustering), FUN=function(x){
-      as.numeric(colSums(features.red[which(clustering == x),]) >= 1)
+      as.numeric(colSums(features.red[which(clustering == x),, drop = FALSE]) >= 1)
     }))
     rownames(features.red) <- c('LP Markers', 'Porphyromonas', 
                                 'HP Markers', 'Clostridiales')

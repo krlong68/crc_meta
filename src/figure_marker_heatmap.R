@@ -149,10 +149,10 @@ g.lst <- lapply(ref.studies, plot.single.study.heatmap)
 
 # for cMD run
 pdf(paste0('../figures/', tag, '/fold_change_heatmap.pdf'), 
-    width = 10, height = 11, useDingbats = FALSE)
+    width = 10, height = 7, useDingbats = FALSE)
 plot_grid(g1, g.lst[[1]], g.lst[[2]], g.lst[[3]], g.lst[[4]],g.lst[[5]],
-          g.lst[[6]], g.lst[[7]], g.lst[[8]], g.lst[[9]],g.lst[[10]],
-          ncol=1, align = 'v', rel_heights = c(0.3,rep(0.12, 10)))
+          g.lst[[6]],
+          ncol=1, align = 'v', rel_heights = c(0.3,rep(0.12, 6)))
 
 dev.off()
 

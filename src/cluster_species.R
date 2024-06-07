@@ -18,11 +18,12 @@ parameters <- yaml.load_file("../parameters.yaml")
 # get data
 
 # meta
-meta <- read_tsv('../data/meta/meta_crc.tsv') %>% 
+meta <- read_tsv('../data/meta/meta_crc.tsv')
+meta <- meta %>% 
   mutate(Stage=case_when(Group=='CTR'~'CTR',
                          AJCC_stage %in% c('0','I', 'II')~'early',
-                         AJCC_stage %in% c('III', 'IV')~'late')) %>% 
-  mutate(Localization=ifelse(Localization=='TODO', NA, Localization)) 
+                         AJCC_stage %in% c('III', 'IV', 'III/IV')~'late')) #%>% 
+#  mutate(Localization=ifelse(Localization=='TODO', NA, Localization)) 
 
 # feat
 feat <- read.table('../data/species/feat_rel_crc.tsv', sep='\t', quote='',
@@ -114,25 +115,26 @@ h.col.study <-
       arrange(match(Sample_ID, colnames(hm.data))) %>% 
       filter(Sample_ID %in% colnames(hm.data)) %>% 
       pull(Stage),
-    Loc=meta %>% 
-      arrange(match(Sample_ID, colnames(hm.data))) %>% 
-      filter(Sample_ID %in% colnames(hm.data)) %>% 
-      pull(Localization),
+    #Loc=meta %>% 
+    #  arrange(match(Sample_ID, colnames(hm.data))) %>% 
+    #  filter(Sample_ID %in% colnames(hm.data)) %>% 
+    #  pull(Localization),
     Gender=meta %>% 
       arrange(match(Sample_ID, colnames(hm.data))) %>% 
       filter(Sample_ID %in% colnames(hm.data)) %>% 
       pull(Gender),
-    col=list("Study"=unlist(parameters$plotting$study.cols),
+    col=list("Study"=unlist(study.colors),
              'Stage'=unlist(parameters$plotting$stage.cols),
-             'Gender'=unlist(parameters$plotting$sex.cols),
-             'Loc'=unlist(parameters$plotting$loc.cols)))
+             'Gender'=unlist(parameters$plotting$sex.cols)))#,
+#             'Loc'=unlist(parameters$plotting$loc.cols)))
 
 h.row.pf <- 
   rowAnnotation(
     Pos = row_anno_barplot(rowSums(hm.data)/ncol(hm.data), border=TRUE, 
                            ylim=c(0,.4),
-                           gp=gpar(fill='grey20', col='grey20', lwd=1.5), 
-                           axis_gp=gpar(ylim=c(0,0.4), fontsize=8),
+                           gp=gpar(fill='grey20', col='grey20', lwd=1.5),
+                           axix_param = list(gp = gpar(ylim=c(0,0.4), fontsize=8)),
+                           #axis_gp=gpar(ylim=c(0,0.4), fontsize=8),
                            axis=TRUE), width=unit(1, 'inches'))
 
 ht.main <- Heatmap(hm.data, cluster_rows = jacc.dend,
@@ -156,9 +158,7 @@ source('./utils_cluster_associations.R')
 
 meta.crc <- meta %>% 
   filter(Group == 'CRC') %>% 
-  filter(!is.na(Sampling_rel_to_colonoscopy)) %>% 
-  mutate(block=ifelse(Study!='CN-CRC', Study, 
-                      paste0(Study, '_', Sampling_rel_to_colonoscopy)))
+  mutate(block=Study)
   
 
 pdf('../figures/species/cluster_associations.pdf', width = 5, height = 6)
@@ -172,12 +172,12 @@ g.stage <- cluster.associations(features=t(pos.mat),
 g.stage + scale_fill_manual(values=unlist(parameters$plotting$stage.cols))
 
 # localization
-g.loc <- cluster.associations(features=t(pos.mat), 
-                              meta.data=meta.crc,
-                              conf='Localization',
-                              block='block',
-                              clustering = clustering)
-g.loc + scale_fill_manual(values=unlist(parameters$plotting$loc.cols))
+#g.loc <- cluster.associations(features=t(pos.mat), 
+#                              meta.data=meta.crc,
+#                              conf='Localization',
+#                              block='block',
+#                              clustering = clustering)
+#g.loc + scale_fill_manual(values=unlist(parameters$plotting$loc.cols))
 
 # gender
 g.sex <- cluster.associations(features=t(pos.mat),

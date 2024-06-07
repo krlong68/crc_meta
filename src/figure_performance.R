@@ -16,6 +16,7 @@ library("yaml")
 theme_set(theme_bw())
 
 parameters <- yaml.load_file('../parameters.yaml')
+ref.studies <- parameters$ref.studies
 
 # ##############################################################################
 # general 
@@ -24,11 +25,11 @@ start.time <- proc.time()[1]
 
 set.seed(2018)
 
-args = commandArgs(trailingOnly=TRUE)
-if (length(args)==0) {
-  stop("The analysis tag needs to be provided! Exiting...\n")
-}
-tag <- args[1]
+#args = commandArgs(trailingOnly=TRUE)
+#if (length(args)==0) {
+#  stop("The analysis tag needs to be provided! Exiting...\n")
+#}
+tag <- "species"
 
 ml.method <- parameters$model.building$ml.method
 if (length(args) == 2){
@@ -79,7 +80,7 @@ for (study.train in studies){
 # AUROC heatmap
 
 col.scheme.heatmap <- parameters$plotting$peformance.cols
-plot.levels <- parameters$ref.studies
+plot.levels <- ref.studies
 
 g <- auroc.all %>% 
   mutate(study.test=factor(study.test, levels=plot.levels)) %>% 

@@ -1,0 +1,850 @@
+FR-CRC	DE-CRC	CN-CRC	US-CRC	AT-CRC	all	all-blocked
+Streptococcus anginosus [ref_mOTU_v2_0004]	9	424	210	0	61	152	NA
+Enterobacteriaceae sp. [ref_mOTU_v2_0036]	0	613	0	734	619	782	NA
+Citrobacter sp. [ref_mOTU_v2_0076]	0	51	36	3	9	106	NA
+Klebsiella michiganensis/oxytoca [ref_mOTU_v2_0079]	16	50	36	0	357	150	NA
+Enterococcus faecalis [ref_mOTU_v2_0116]	0	46	53	0	3	95	NA
+Lactobacillus salivarius [ref_mOTU_v2_0125]	19	131	77	21	1	297	NA
+Dielma fastidiosa [ref_mOTU_v2_0138]	9	430	28	2	7	425	NA
+Streptococcus constellatus/intermedius [ref_mOTU_v2_0143]	13	59	421	231	7	423	NA
+Streptococcus parasanguinis [ref_mOTU_v2_0144]	2	1	0	2	36	62	NA
+Streptococcus sp. HSISM1 [ref_mOTU_v2_0145]	0	10	8	0	158	111	NA
+Peptostreptococcus anaerobius [ref_mOTU_v2_0148]	16	175	81	221	319	569	NA
+Bifidobacterium longum [ref_mOTU_v2_0150]	658	0	4	0	0	434	NA
+Bifidobacterium breve [ref_mOTU_v2_0157]	1	219	35	0	98	178	NA
+Klebsiella sp. [ref_mOTU_v2_0160]	6	41	0	0	14	54	NA
+Lactobacillus ruminis [ref_mOTU_v2_0167]	280	181	33	3	129	329	NA
+Lactococcus lactis [ref_mOTU_v2_0182]	0	10	38	0	1	98	NA
+Streptococcus vestibularis [ref_mOTU_v2_0198]	468	5	15	0	11	97	NA
+Streptococcus salivarius [ref_mOTU_v2_0199]	672	0	5	0	59	545	NA
+Streptococcus thermophilus [ref_mOTU_v2_0219]	608	0	22	1	759	712	NA
+Lactobacillus casei/paracasei [ref_mOTU_v2_0226]	1	52	47	0	55	183	NA
+Megasphaera elsdenii [ref_mOTU_v2_0252]	0	61	20	NA	37	104	NA
+Streptococcus sp. [ref_mOTU_v2_0261]	6	56	36	0	46	123	NA
+Enterobacter sp. [ref_mOTU_v2_0265]	6	131	36	0	29	148	NA
+Bacteroides stercoris [ref_mOTU_v2_0275]	0	0	0	0	320	26	NA
+Prevotella nigrescens [ref_mOTU_v2_0276]	30	459	263	44	94	599	NA
+Streptococcus sanguinis [ref_mOTU_v2_0279]	458	24	24	0	555	134	NA
+Ruminococcus gnavus [ref_mOTU_v2_0280]	0	625	20	695	0	687	NA
+Ruminococcus lactaris [ref_mOTU_v2_0281]	0	0	0	0	0	39	NA
+Bacteroides fragilis [ref_mOTU_v2_0286]	34	170	50	4	14	626	NA
+Bacteroides fragilis [ref_mOTU_v2_0287]	85	636	578	0	5	823	NA
+Streptococcus mutans [ref_mOTU_v2_0289]	30	195	27	0	33	160	NA
+Bacteroides nordii [ref_mOTU_v2_0302]	0	380	1	0	300	718	NA
+Coprococcus sp. [ref_mOTU_v2_0303]	1	70	7	393	16	76	NA
+Streptococcus anginosus [ref_mOTU_v2_0351]	23	180	75	4	70	266	NA
+Streptococcus oralis [ref_mOTU_v2_0356]	9	442	65	0	9	294	NA
+Haemophilus parainfluenzae [ref_mOTU_v2_0358]	1	19	497	0	5	70	NA
+Lactococcus lactis [ref_mOTU_v2_0371]	0	33	62	0	2	130	NA
+Enterococcus faecium [ref_mOTU_v2_0372]	590	71	24	0	1	106	NA
+Acidaminococcus intestini [ref_mOTU_v2_0391]	25	45	79	0	269	573	NA
+Streptococcus sp. [ref_mOTU_v2_0416]	45	132	218	39	134	539	NA
+Anaerococcus obesiensis/vaginalis [ref_mOTU_v2_0429]	79	285	63	2	486	598	NA
+Bacteroides barnesiae [ref_mOTU_v2_0452]	19	74	NA	0	NA	148	NA
+Bacteroides massiliensis [ref_mOTU_v2_0455]	0	615	569	0	594	25	NA
+Bacteroides salyersiae [ref_mOTU_v2_0458]	8	39	3	0	151	119	NA
+Blautia wexlerae [ref_mOTU_v2_0466]	748	625	0	0	733	585	NA
+Clostridium saccharogumia [ref_mOTU_v2_0473]	0	255	77	0	131	160	NA
+Megamonas funiformis/rupellensis [ref_mOTU_v2_0502]	236	65	0	0	15	16	NA
+Prevotella intermedia [ref_mOTU_v2_0515]	424	142	555	11	318	729	NA
+Prevotella oris [ref_mOTU_v2_0520]	18	NA	NA	4	NA	225	NA
+Solobacterium moorei [ref_mOTU_v2_0531]	411	688	624	2	10	768	NA
+Veillonella atypica [ref_mOTU_v2_0561]	0	428	3	0	2	82	NA
+Lactobacillus mucosae [ref_mOTU_v2_0568]	50	126	49	0	56	112	NA
+Enterococcus durans [ref_mOTU_v2_0598]	2	122	NA	0	59	136	NA
+Bifidobacterium dentium [ref_mOTU_v2_0631]	0	37	59	0	144	104	NA
+Bifidobacterium pseudocatenulatum [ref_mOTU_v2_0632]	530	0	0	0	1	31	NA
+Bifidobacterium catenulatum/kashiwanohense [ref_mOTU_v2_0633]	28	2	10	0	186	485	NA
+Eggerthella lenta [ref_mOTU_v2_0642]	0	422	26	0	7	51	NA
+Clostridium innocuum [ref_mOTU_v2_0643]	0	653	20	0	5	130	NA
+Enterococcus faecium/hirae [ref_mOTU_v2_0654]	9	117	58	NA	138	179	NA
+Streptococcus salivarius [ref_mOTU_v2_0656]	1	34	22	0	1	102	NA
+Streptococcus anginosus [ref_mOTU_v2_0687]	11	500	282	0	160	144	NA
+Bacteroides cellulosilyticus/timonensis [ref_mOTU_v2_0692]	0	0	1	0	0	58	NA
+Lactobacillus gasseri [ref_mOTU_v2_0725]	9	60	50	0	25	118	NA
+Atopobium parvulum [ref_mOTU_v2_0741]	11	431	70	0	30	268	NA
+Fusobacterium nucleatum s. vincentii [ref_mOTU_v2_0754]	294	419	250	190	43	514	NA
+Sutterella wadsworthensis [ref_mOTU_v2_0767]	0	588	18	0	396	38	NA
+Alistipes onderdonkii [ref_mOTU_v2_0775]	8	709	2	0	748	779	NA
+Fusobacterium nucleatum s. animalis [ref_mOTU_v2_0776]	654	572	561	562	522	788	NA
+Fusobacterium nucleatum s. nucleatum [ref_mOTU_v2_0777]	333	216	369	218	91	518	NA
+Bifidobacterium bifidum [ref_mOTU_v2_0786]	0	17	18	0	15	171	NA
+Streptococcus equinus [ref_mOTU_v2_0793]	4	82	44	5	52	129	NA
+Oscillibacter sp. KLE 1728 [ref_mOTU_v2_0858]	4	613	47	0	641	747	NA
+Blautia sp. KLE 1732 [ref_mOTU_v2_0859]	701	375	7	0	610	667	NA
+Clostridium sp. KLE 1755 [ref_mOTU_v2_0860]	0	10	549	0	3	566	NA
+Hungatella hathewayi [ref_mOTU_v2_0882]	685	611	580	0	211	762	NA
+Clostridium scindens [ref_mOTU_v2_0883]	0	431	581	0	1	588	NA
+Anaerotruncus colihominis [ref_mOTU_v2_0884]	11	21	332	478	11	624	NA
+Erysipelotrichaceae sp. [ref_mOTU_v2_0885]	0	611	619	0	1	607	NA
+Clostridium boltae/clostridioforme [ref_mOTU_v2_0886]	16	702	516	0	1	795	NA
+Lachnospiraceae bacterium 3_1_57FAA_CT1 [ref_mOTU_v2_0887]	21	671	159	2	317	748	NA
+Bacteroides thetaiotaomicron [ref_mOTU_v2_0897]	18	723	0	0	0	693	NA
+Bacteroides dorei/vulgatus [ref_mOTU_v2_0898]	0	759	0	0	743	743	NA
+Bacteroides rodentium/uniformis [ref_mOTU_v2_0899]	0	701	0	0	0	38	NA
+Parabacteroides goldsteinii [ref_mOTU_v2_0901]	22	14	5	0	55	69	NA
+Phascolarctobacterium succinatutens [ref_mOTU_v2_0947]	0	11	3	0	2	7	NA
+Megasphaera sp. [ref_mOTU_v2_0965]	1	97	0	0	72	74	NA
+Dorea formicigenerans [ref_mOTU_v2_0973]	570	689	73	0	0	49	NA
+Clostridium butyricum [ref_mOTU_v2_0978]	10	NA	NA	0	70	182	NA
+Clostridium clostridioforme [ref_mOTU_v2_0979]	0	602	503	0	8	707	NA
+Clostridium clostridioforme [ref_mOTU_v2_0980]	13	282	241	0	35	246	NA
+Veillonella parvula [ref_mOTU_v2_1042]	8	272	0	0	5	608	NA
+Lactobacillus fermentum [ref_mOTU_v2_1050]	13	62	31	0	145	136	NA
+Bacteroides xylanisolvens [ref_mOTU_v2_1072]	556	747	0	0	0	39	NA
+Bacteroides fragilis/ovatus [ref_mOTU_v2_1073]	0	0	0	0	502	13	NA
+Bacteroidales sp. [ref_mOTU_v2_1074]	2	746	0	0	658	780	NA
+Lactobacillus reuteri [ref_mOTU_v2_1076]	17	67	69	0	117	158	NA
+Porphyromonadaceae sp. [ref_mOTU_v2_1091]	0	483	72	0	190	119	NA
+Clostridium perfringens [ref_mOTU_v2_1117]	10	79	30	0	43	132	NA
+Mogibacterium timidum [ref_mOTU_v2_1136]	9	139	240	261	52	302	NA
+Parvimonas micra [ref_mOTU_v2_1145]	705	760	680	337	592	834	NA
+Bilophila wadsworthia [ref_mOTU_v2_1149]	64	523	4	0	497	754	NA
+Bifidobacterium adolescentis [ref_mOTU_v2_1156]	0	0	1	0	0	186	NA
+Bifidobacterium ruminantium [ref_mOTU_v2_1159]	48	33	17	0	12	64	NA
+Bifidobacterium sp. [ref_mOTU_v2_1180]	1	76	NA	NA	169	161	NA
+Hafnia alvei [ref_mOTU_v2_1202]	0	67	NA	NA	127	133	NA
+Bifidobacterium angulatum [ref_mOTU_v2_1285]	127	130	NA	0	95	145	NA
+Akkermansia muciniphila [ref_mOTU_v2_1301]	0	508	4	0	0	55	NA
+Anaerostipes hadrus [ref_mOTU_v2_1309]	763	0	0	0	739	785	NA
+Ruminococcus torques [ref_mOTU_v2_1376]	0	791	614	0	745	832	NA
+Flavonifractor plautii [ref_mOTU_v2_1377]	621	712	4	0	494	794	NA
+Parabacteroides merdae [ref_mOTU_v2_1378]	39	0	0	0	696	48	NA
+Faecalibacterium prausnitzii [ref_mOTU_v2_1379]	0	0	578	0	0	169	NA
+Clostridium saccharolyticum [ref_mOTU_v2_1380]	6	12	32	0	393	127	NA
+Anaerostipes caccae [ref_mOTU_v2_1381]	0	60	21	0	130	112	NA
+Bacteroides caccae [ref_mOTU_v2_1382]	0	0	63	0	573	749	NA
+Collinsella aerofaciens [ref_mOTU_v2_1383]	0	0	22	0	0	4	NA
+Methanobrevibacter smithii [ref_mOTU_v2_1384]	0	0	15	0	352	91	NA
+Methanobrevibacter smithii [ref_mOTU_v2_1385]	0	48	NA	10	380	74	NA
+Eubacterium siraeum [ref_mOTU_v2_1387]	0	0	1	0	0	6	NA
+Desulfovibrio sp. [ref_mOTU_v2_1394]	24	149	145	0	126	271	NA
+Eubacterium sp. [ref_mOTU_v2_1395]	164	60	89	0	81	80	NA
+Fusobacterium ulcerans [ref_mOTU_v2_1396]	8	NA	27	0	76	146	NA
+Streptococcus sp. 2_1_36FAA [ref_mOTU_v2_1399]	0	411	29	0	34	132	NA
+Coprobacillus sp. [ref_mOTU_v2_1401]	0	21	22	0	17	92	NA
+Fusobacterium sp. oral taxon 370 [ref_mOTU_v2_1403]	371	142	488	16	62	617	NA
+Fusobacterium gonidiaformans [ref_mOTU_v2_1404]	43	93	63	2	56	403	NA
+Parasutterella excrementihominis [ref_mOTU_v2_1405]	0	67	15	0	1	64	NA
+Bacteroides finegoldii [ref_mOTU_v2_1409]	0	4	7	0	108	22	NA
+Bacteroides eggerthii [ref_mOTU_v2_1410]	0	0	0	5	661	53	NA
+Eubacterium rectale [ref_mOTU_v2_1416]	758	0	613	0	0	747	NA
+Roseburia intestinalis [ref_mOTU_v2_1427]	746	706	588	0	3	778	NA
+Blautia hansenii [ref_mOTU_v2_1428]	1	85	19	0	271	91	NA
+Faecalitalea cylindroides [ref_mOTU_v2_1470]	0	25	47	0	107	60	NA
+Clostridium symbiosum [ref_mOTU_v2_1475]	592	660	648	623	255	811	NA
+Alistipes finegoldii [ref_mOTU_v2_1481]	0	0	0	0	592	294	NA
+Turicibacter sanguinis [ref_mOTU_v2_1493]	6	374	43	0	1	137	NA
+Porphyromonas asaccharolytica [ref_mOTU_v2_1517]	389	546	120	205	197	712	NA
+Streptococcus australis [ref_mOTU_v2_1524]	195	36	33	0	51	138	NA
+Prevotella stercorea [ref_mOTU_v2_1551]	1	67	173	0	51	72	NA
+Alistipes timonensis [ref_mOTU_v2_1593]	30	17	55	1	49	155	NA
+Alistipes senegalensis [ref_mOTU_v2_1594]	0	3	21	0	2	90	NA
+Senegalimassilia anaerobia [ref_mOTU_v2_1606]	0	2	46	0	11	109	NA
+Bacteroides faecis [ref_mOTU_v2_1706]	0	9	70	0	1	37	NA
+Enorma massiliensis [ref_mOTU_v2_1824]	0	25	29	0	35	92	NA
+Alistipes obesi [ref_mOTU_v2_1825]	0	2	1	0	410	52	NA
+Blautia producta [ref_mOTU_v2_1889]	0	88	63	305	155	157	NA
+Parabacteroides gordonii [ref_mOTU_v2_2090]	3	54	37	188	NA	176	NA
+Porphyromonas somerae [ref_mOTU_v2_2101]	406	362	113	3	507	694	NA
+Porphyromonas uenonis [ref_mOTU_v2_2102]	22	320	73	261	318	588	NA
+Faecalicoccus pleomorphus [ref_mOTU_v2_2178]	8	71	63	0	597	493	NA
+Ruminococcus bicirculans [ref_mOTU_v2_2358]	770	0	633	0	0	82	NA
+Butyricicoccus pullicaecorum [ref_mOTU_v2_2510]	1	NA	36	0	345	199	NA
+cand. Alistipes marseilloanorexicus [ref_mOTU_v2_2553]	23	0	54	0	464	412	NA
+Holdemania massiliensis [ref_mOTU_v2_2557]	10	21	21	0	28	178	NA
+Megasphaera massiliensis [ref_mOTU_v2_2684]	1	NA	NA	0	182	121	NA
+Clostridiales bacterium VE202-09 [ref_mOTU_v2_2688]	12	86	36	0	138	161	NA
+Clostridiales bacterium VE202-14 [ref_mOTU_v2_2689]	0	392	18	0	19	54	NA
+Bacteroides stercorirosoris [ref_mOTU_v2_2726]	3	86	38	0	NA	104	NA
+Eubacterium ramulus [ref_mOTU_v2_2795]	0	0	13	0	0	78	NA
+Phascolarctobacterium sp. [ref_mOTU_v2_2805]	22	0	6	0	382	750	NA
+Phascolarctobacterium sp. [ref_mOTU_v2_2806]	4	215	23	0	149	46	NA
+Clostridium paraputrificum [ref_mOTU_v2_2890]	0	47	55	0	41	126	NA
+Dorea longicatena [ref_mOTU_v2_2893]	0	0	0	0	1	38	NA
+Intestinimonas butyriciproducens [ref_mOTU_v2_2968]	185	537	49	0	512	695	NA
+Adlercreutzia equolifaciens [ref_mOTU_v2_3198]	0	2	11	12	4	466	NA
+Mitsuokella jalaludinii [ref_mOTU_v2_3339]	0	56	41	0	94	110	NA
+Clostridium sp. JCC [ref_mOTU_v2_3353]	5	4	22	0	0	72	NA
+Alistipes inops [ref_mOTU_v2_3597]	50	0	23	0	1	45	NA
+bacterium OL-1 [ref_mOTU_v2_3607]	1	53	20	15	183	146	NA
+bacterium LF-3 [ref_mOTU_v2_3608]	581	0	654	0	3	752	NA
+Oscillibacter sp. ER4 [ref_mOTU_v2_3624]	0	0	0	0	0	9	NA
+Ruminococcus champanellensis [ref_mOTU_v2_3773]	2	232	NA	0	154	345	NA
+butyrate-producing bacterium SS3/4 [ref_mOTU_v2_3825]	4	0	405	0	426	58	NA
+Blautia producta [ref_mOTU_v2_4020]	70	120	26	0	38	122	NA
+Pyramidobacter piscolens [ref_mOTU_v2_4064]	7	124	31	3	NA	232	NA
+Blautia obeum [ref_mOTU_v2_4202]	0	707	5	0	1	50	NA
+Dorea longicatena [ref_mOTU_v2_4203]	0	0	0	0	0	16	NA
+Eubacterium ventriosum [ref_mOTU_v2_4204]	634	0	644	0	0	662	NA
+Desulfovibrio piger [ref_mOTU_v2_4205]	582	135	4	0	79	44	NA
+Eubacterium hallii [ref_mOTU_v2_4207]	778	0	493	0	2	751	NA
+Ruminococcus callidus [ref_mOTU_v2_4209]	0	37	14	0	494	97	NA
+Coprococcus eutactus [ref_mOTU_v2_4210]	1	717	34	0	2	79	NA
+Faecalibacterium prausnitzii [ref_mOTU_v2_4211]	0	3	1	0	0	25	NA
+Clostridium sp. L2-50 [ref_mOTU_v2_4212]	0	161	22	151	3	666	NA
+Clostridium leptum [ref_mOTU_v2_4234]	1	432	17	663	0	273	NA
+Clostridium spiroforme [ref_mOTU_v2_4235]	2	0	23	0	1	72	NA
+Alistipes putredinis [ref_mOTU_v2_4266]	0	0	0	0	680	9	NA
+Intestinibacter bartlettii [ref_mOTU_v2_4268]	13	0	15	0	0	52	NA
+Synergistes sp. 3_1_syn1 [ref_mOTU_v2_4289]	12	402	144	0	95	390	NA
+Fusobacterium mortiferum [ref_mOTU_v2_4310]	27	NA	64	0	69	241	NA
+Fusobacterium varium [ref_mOTU_v2_4311]	16	120	78	0	75	471	NA
+Bacteroides coprocola [ref_mOTU_v2_4312]	0	361	0	320	4	47	NA
+Coprococcus comes [ref_mOTU_v2_4313]	15	444	507	0	90	592	NA
+Bacteroides intestinalis [ref_mOTU_v2_4321]	0	0	0	0	339	18	NA
+Blautia hydrogenotrophica [ref_mOTU_v2_4324]	0	46	29	0	1	128	NA
+Bacteroides pectinophilus [ref_mOTU_v2_4341]	0	74	NA	3	509	445	NA
+Bacteroides plebeius [ref_mOTU_v2_4343]	0	595	0	0	2	11	NA
+Tyzzerella nexilis [ref_mOTU_v2_4366]	0	422	1	0	339	476	NA
+Mitsuokella multacida [ref_mOTU_v2_4368]	1	55	19	0	116	108	NA
+Butyrivibrio crossotus [ref_mOTU_v2_4383]	0	7	48	0	6	79	NA
+Eubacterium eligens [ref_mOTU_v2_4389]	779	0	661	0	0	699	NA
+Clostridium asparagiforme [ref_mOTU_v2_4394]	14	489	24	0	487	611	NA
+Holdemanella biformis [ref_mOTU_v2_4395]	0	21	11	3	231	7	NA
+Collinsella intestinalis [ref_mOTU_v2_4400]	1	77	29	0	117	101	NA
+Prevotella copri [ref_mOTU_v2_4448]	0	706	0	0	782	0	NA
+Holdemania filiformis [ref_mOTU_v2_4459]	2	11	19	0	5	95	NA
+Veillonella dispar [ref_mOTU_v2_4469]	10	49	0	0	83	117	NA
+Bacteroides coprophilus [ref_mOTU_v2_4472]	13	34	46	194	327	377	NA
+Ruminococcaceae bacterium D16 [ref_mOTU_v2_4480]	27	435	28	0	653	696	NA
+Gemella morbillorum [ref_mOTU_v2_4513]	589	647	669	238	663	813	NA
+Roseburia hominis [ref_mOTU_v2_4572]	0	0	1	0	0	56	NA
+Acidaminococcus fermentans [ref_mOTU_v2_4591]	0	NA	NA	NA	69	134	NA
+Dialister invisus [ref_mOTU_v2_4598]	0	0	9	0	738	3	NA
+Peptostreptococcus stomatis [ref_mOTU_v2_4614]	605	657	659	440	466	808	NA
+Porphyromonas uenonis [ref_mOTU_v2_4616]	130	515	34	425	511	709	NA
+Roseburia inulinivorans [ref_mOTU_v2_4632]	0	0	491	0	0	34	NA
+Alloprevotella tannerae [ref_mOTU_v2_4636]	13	NA	68	8	59	270	NA
+Granulicatella adiacens [ref_mOTU_v2_4659]	11	465	46	1	24	422	NA
+Ruminococcus torques [ref_mOTU_v2_4718]	0	0	604	0	0	46	NA
+Blautia obeum [ref_mOTU_v2_4719]	1	9	13	0	0	53	NA
+Ruminococcus bromii [ref_mOTU_v2_4720]	736	0	0	0	0	3	NA
+Lachnospiraceae bacterium 1_4_56FAA [ref_mOTU_v2_4723]	0	8	70	0	124	71	NA
+Erysipelotrichaceae sp. [ref_mOTU_v2_4724]	44	67	30	0	47	142	NA
+Subdoligranulum sp. 4_3_54A2FAA [ref_mOTU_v2_4738]	580	779	646	0	0	796	NA
+Megasphaera micronuciformis [ref_mOTU_v2_4840]	20	92	30	0	86	178	NA
+Odoribacter splanchnicus [ref_mOTU_v2_4846]	0	687	0	0	541	151	NA
+Alistipes shahii [ref_mOTU_v2_4873]	0	0	0	0	0	28	NA
+Coprococcus catus [ref_mOTU_v2_4874]	1	630	16	0	0	56	NA
+Faecalibacterium prausnitzii [ref_mOTU_v2_4875]	0	12	596	0	0	733	NA
+Alistipes indistinctus [ref_mOTU_v2_4879]	0	120	115	0	4	569	NA
+Barnesiella intestinihominis [ref_mOTU_v2_4880]	0	0	443	0	527	36	NA
+Clostridium citroniae [ref_mOTU_v2_4882]	11	484	524	1	1	669	NA
+Collinsella tanakaei [ref_mOTU_v2_4884]	1	136	199	0	87	135	NA
+Dialister succinatiphilus [ref_mOTU_v2_4885]	1	55	83	NA	282	115	NA
+Slackia piriformis [ref_mOTU_v2_4888]	8	165	35	5	31	125	NA
+Sutterella wadsworthensis [ref_mOTU_v2_4889]	0	96	10	0	1	36	NA
+Faecalibacterium prausnitzii [ref_mOTU_v2_4910]	0	0	632	0	0	648	NA
+Paraprevotella clara [ref_mOTU_v2_4942]	0	24	18	0	2	10	NA
+Paraprevotella xylaniphila [ref_mOTU_v2_4943]	1	84	28	1	39	100	NA
+Succinatimonas hippei [ref_mOTU_v2_4944]	4	130	49	0	NA	167	NA
+Bacteroides clarus [ref_mOTU_v2_4945]	0	0	413	0	13	52	NA
+Bacteroides fluxus [ref_mOTU_v2_4946]	NA	61	NA	0	114	128	NA
+Parvimonas sp. [ref_mOTU_v2_4961]	158	305	482	5	267	649	NA
+Veillonella sp. [ref_mOTU_v2_5068]	2	35	18	8	410	111	NA
+Parvimonas sp. [ref_mOTU_v2_5245]	60	74	289	4	118	399	NA
+Parabacteroides johnsonii [ref_mOTU_v2_5296]	1	155	17	3	31	76	NA
+unknown Clostridia [meta_mOTU_v2_5309]	2	104	35	0	118	134	NA
+unknown Bacteroidales [meta_mOTU_v2_5329]	4	437	66	0	592	720	NA
+unknown Ruminococcaceae [meta_mOTU_v2_5330]	0	2	0	0	1	44	NA
+unknown Clostridium [meta_mOTU_v2_5331]	0	0	26	0	0	117	NA
+unknown Clostridium [meta_mOTU_v2_5336]	10	176	NA	7	90	135	NA
+unknown Dialister [meta_mOTU_v2_5337]	0	17	4	0	394	143	NA
+unknown Clostridiales [meta_mOTU_v2_5339]	0	0	7	0	0	32	NA
+unknown Clostridiales [meta_mOTU_v2_5341]	3	298	25	0	2	168	NA
+unknown Clostridium [meta_mOTU_v2_5343]	119	205	NA	0	34	261	NA
+unknown Clostridia [meta_mOTU_v2_5344]	12	31	NA	0	NA	167	NA
+unknown Clostridiales [meta_mOTU_v2_5347]	2	84	16	0	42	89	NA
+Oscillibacter sp. 57_20 [meta_mOTU_v2_5351]	427	34	326	292	3	372	NA
+unknown Clostridium [meta_mOTU_v2_5353]	26	169	NA	12	86	143	NA
+unknown Roseburia [meta_mOTU_v2_5354]	0	0	549	0	0	511	NA
+unknown Anaeromassilibacillus [meta_mOTU_v2_5357]	1	3	47	0	16	125	NA
+unknown Clostridiales [meta_mOTU_v2_5362]	0	76	146	0	23	132	NA
+Clostridium sp. CAG:127 [meta_mOTU_v2_5364]	0	250	6	0	1	157	NA
+unknown Clostridium [meta_mOTU_v2_5366]	1	75	65	0	82	116	NA
+unknown Eggerthellaceae [meta_mOTU_v2_5373]	0	0	42	0	12	42	NA
+unknown Bacteroidales [meta_mOTU_v2_5375]	7	0	29	0	38	147	NA
+unknown Coprococcus [meta_mOTU_v2_5379]	0	0	490	0	1	281	NA
+unknown Clostridiaceae [meta_mOTU_v2_5382]	7	5	23	0	484	91	NA
+Azospirillum sp. CAG:239 [meta_mOTU_v2_5386]	0	8	68	0	357	166	NA
+Clostridium sp. CAG:440 [meta_mOTU_v2_5389]	2	407	34	196	184	648	NA
+unknown Ruminococcus [meta_mOTU_v2_5392]	1	52	85	0	108	68	NA
+unknown Sutterellaceae [meta_mOTU_v2_5393]	0	136	41	0	36	202	NA
+unknown Clostridiales [meta_mOTU_v2_5396]	0	8	31	0	0	41	NA
+unknown Clostridiales [meta_mOTU_v2_5397]	0	2	25	0	0	85	NA
+Prevotella sp. CAG:279 [meta_mOTU_v2_5405]	1	NA	41	0	68	154	NA
+unknown Clostridiales [meta_mOTU_v2_5408]	10	65	NA	39	95	184	NA
+unknown Clostridiales [meta_mOTU_v2_5411]	0	427	531	0	0	94	NA
+unknown Clostridiales [meta_mOTU_v2_5412]	0	4	9	0	6	64	NA
+unknown Clostridium [meta_mOTU_v2_5413]	0	696	41	739	1	750	NA
+unknown Clostridiales [meta_mOTU_v2_5415]	NA	119	NA	0	NA	176	NA
+unknown Alistipes [meta_mOTU_v2_5423]	48	12	31	0	21	328	NA
+unknown Porphyromonas [meta_mOTU_v2_5431]	25	429	123	384	339	691	NA
+unknown Dehalococcoidales [meta_mOTU_v2_5435]	31	163	70	5	59	149	NA
+unknown Butyricicoccus [meta_mOTU_v2_5437]	1	280	26	0	119	279	NA
+unknown Clostridiales [meta_mOTU_v2_5442]	1	94	51	167	61	333	NA
+Ruminococcus sp. CAG:177 [meta_mOTU_v2_5453]	0	65	20	0	8	46	NA
+unknown Eubacterium [meta_mOTU_v2_5463]	0	0	18	0	18	120	NA
+Clostridium sp. CAG:793 [meta_mOTU_v2_5464]	NA	228	96	4	128	156	NA
+unknown Clostridiales [meta_mOTU_v2_5466]	1	247	20	0	481	63	NA
+uncultured Eubacterium sp. [meta_mOTU_v2_5477]	58	3	16	0	0	80	NA
+unknown Dehalococcoidales [meta_mOTU_v2_5481]	2	99	NA	0	57	78	NA
+Clostridiales bacterium 41_21_two_genomes [meta_mOTU_v2_5482]	1	42	73	0	137	124	NA
+Clostridiales bacterium S5-A14a [meta_mOTU_v2_5486]	102	52	73	2	248	559	NA
+Clostridium sp. CAG:571 [meta_mOTU_v2_5498]	1	160	34	0	100	148	NA
+Clostridium sp. CAG:594 [meta_mOTU_v2_5501]	6	110	34	0	559	122	NA
+unknown Prevotella [meta_mOTU_v2_5502]	1	108	56	0	108	98	NA
+unknown Clostridium [meta_mOTU_v2_5505]	0	592	18	219	223	577	NA
+unknown Clostridiales [meta_mOTU_v2_5511]	40	253	39	4	95	504	NA
+unknown Clostridiales [meta_mOTU_v2_5513]	0	6	31	0	1	55	NA
+unknown Clostridiales [meta_mOTU_v2_5514]	410	442	93	0	74	693	NA
+unknown Clostridiales [meta_mOTU_v2_5517]	0	295	18	0	0	499	NA
+unknown Bacteroidales [meta_mOTU_v2_5520]	0	539	54	0	597	723	NA
+unknown Firmicutes [meta_mOTU_v2_5525]	0	4	11	0	1	52	NA
+unknown Synergistaceae [meta_mOTU_v2_5538]	19	88	46	0	NA	158	NA
+unknown Clostridiales [meta_mOTU_v2_5540]	0	21	11	0	156	260	NA
+Libanicoccus massiliensis [meta_mOTU_v2_5543]	0	42	41	0	32	115	NA
+unknown Phascolarctobacterium [meta_mOTU_v2_5554]	NA	73	NA	0	614	301	NA
+unknown Prevotella [meta_mOTU_v2_5555]	0	35	20	0	429	39	NA
+unknown Clostridium [meta_mOTU_v2_5561]	15	43	29	0	312	87	NA
+unknown Prevotellaceae [meta_mOTU_v2_5568]	1	85	36	0	262	106	NA
+unknown Clostridiales [meta_mOTU_v2_5569]	49	30	41	0	30	241	NA
+unknown Clostridiales [meta_mOTU_v2_5571]	2	79	NA	8	243	163	NA
+unknown Clostridiales [meta_mOTU_v2_5583]	10	23	NA	0	48	112	NA
+unknown Bacteroidales [meta_mOTU_v2_5584]	0	84	NA	0	169	85	NA
+unknown Clostridium [meta_mOTU_v2_5585]	1	284	35	3	263	372	NA
+unknown Clostridiales [meta_mOTU_v2_5591]	1	51	47	4	114	147	NA
+unknown Clostridiales [meta_mOTU_v2_5603]	0	0	396	0	2	69	NA
+unknown Bacteroides [meta_mOTU_v2_5618]	19	130	NA	0	NA	168	NA
+unknown Ruminococcus [meta_mOTU_v2_5630]	1	152	NA	0	66	170	NA
+Mailhella massiliensis [meta_mOTU_v2_5632]	0	121	40	0	263	121	NA
+unknown Clostridiales [meta_mOTU_v2_5641]	1	14	53	0	9	167	NA
+unknown Streptococcus [meta_mOTU_v2_5642]	1	5	8	0	18	116	NA
+unknown Bacteroidales [meta_mOTU_v2_5647]	2	206	NA	0	133	124	NA
+unknown Bacteria [meta_mOTU_v2_5651]	9	54	NA	3	73	135	NA
+Azospirillum sp. 51_20 [meta_mOTU_v2_5652]	1	73	NA	0	32	123	NA
+unknown Clostridiales [meta_mOTU_v2_5653]	7	47	NA	0	5	130	NA
+unknown Bacteroidales [meta_mOTU_v2_5655]	1	175	21	0	41	131	NA
+unknown Anaeromassilibacillus [meta_mOTU_v2_5656]	18	2	15	0	5	97	NA
+unknown Firmicutes [meta_mOTU_v2_5660]	0	155	35	0	109	115	NA
+unknown Clostridiales [meta_mOTU_v2_5661]	22	102	43	0	114	418	NA
+unknown Prevotella [meta_mOTU_v2_5668]	0	25	23	0	16	71	NA
+unknown Clostridiales [meta_mOTU_v2_5669]	0	0	1	0	0	24	NA
+unknown Odoribacter [meta_mOTU_v2_5670]	16	59	74	0	NA	151	NA
+unknown Sutterella [meta_mOTU_v2_5677]	22	70	NA	0	102	170	NA
+Clostridium sp. CAG:273 [meta_mOTU_v2_5681]	1	60	52	0	1	264	NA
+Mycoplasma sp. CAG:611 [meta_mOTU_v2_5692]	2	47	26	0	83	121	NA
+Clostridium sp. CAG:306 [meta_mOTU_v2_5698]	6	42	NA	0	307	126	NA
+Butyrivibrio sp. CAG:318 [meta_mOTU_v2_5702]	0	115	NA	0	62	100	NA
+Bacteroides sp. CAG:462 [meta_mOTU_v2_5709]	3	86	NA	NA	100	150	NA
+unknown Clostridiales [meta_mOTU_v2_5710]	10	66	42	0	287	152	NA
+Prevotella sp. CAG:891 [meta_mOTU_v2_5711]	NA	180	72	0	NA	125	NA
+unknown Clostridiales [meta_mOTU_v2_5712]	1	555	499	0	0	60	NA
+Clostridium sp. CAG:590 [meta_mOTU_v2_5713]	11	115	NA	0	86	153	NA
+Clostridium sp. 27_14 [meta_mOTU_v2_5718]	1	368	18	0	5	113	NA
+unknown Firmicutes [meta_mOTU_v2_5720]	50	41	NA	0	75	240	NA
+Clostridium sp. CAG:568 [meta_mOTU_v2_5729]	0	41	NA	0	359	129	NA
+Butyricicoccus sp. BB10 [meta_mOTU_v2_5734]	42	118	31	166	373	614	NA
+unknown Clostridiales [meta_mOTU_v2_5735]	0	579	30	0	0	420	NA
+unknown Firmicutes [meta_mOTU_v2_5740]	16	221	32	0	248	338	NA
+unknown Clostridiales [meta_mOTU_v2_5741]	671	27	29	0	0	627	NA
+unknown Peptostreptococcaceae [meta_mOTU_v2_5742]	27	354	593	4	19	656	NA
+unknown Clostridiales [meta_mOTU_v2_5745]	0	653	21	95	6	527	NA
+unknown Clostridium [meta_mOTU_v2_5748]	1	81	NA	0	129	147	NA
+unknown Clostridium [meta_mOTU_v2_5751]	2	143	NA	0	286	141	NA
+unknown Clostridiales [meta_mOTU_v2_5754]	30	304	39	0	49	379	NA
+Prevotella sp. CAG:485 [meta_mOTU_v2_5757]	NA	148	34	NA	NA	151	NA
+unknown Bacteroidales [meta_mOTU_v2_5773]	2	46	NA	0	350	154	NA
+Clostridium sp. CAG:288 [meta_mOTU_v2_5776]	170	102	NA	0	67	126	NA
+unknown Faecalibacterium [meta_mOTU_v2_5779]	0	616	364	0	2	287	NA
+unknown Prevotella [meta_mOTU_v2_5780]	NA	124	59	NA	73	230	NA
+unknown Clostridiales [meta_mOTU_v2_5783]	0	552	37	0	37	184	NA
+unknown Clostridiales [meta_mOTU_v2_5791]	13	49	37	3	63	197	NA
+unknown Butyricicoccus [meta_mOTU_v2_5800]	0	36	424	655	14	683	NA
+unknown Clostridiales [meta_mOTU_v2_5805]	0	0	9	0	0	59	NA
+unknown Clostridiales [meta_mOTU_v2_5806]	70	55	185	0	1	124	NA
+unknown Veillonella [meta_mOTU_v2_5811]	10	27	8	0	7	93	NA
+unknown Faecalibacterium [meta_mOTU_v2_5815]	0	216	581	3	1	790	NA
+unknown Clostridiales [meta_mOTU_v2_5820]	18	19	38	82	3	114	NA
+unknown Clostridiales [meta_mOTU_v2_5826]	1	630	13	0	96	103	NA
+unknown Firmicutes [meta_mOTU_v2_5841]	17	135	NA	0	NA	169	NA
+unknown Clostridiales [meta_mOTU_v2_5843]	2	38	40	0	48	159	NA
+unknown Oscillibacter [meta_mOTU_v2_5845]	375	25	54	0	352	331	NA
+unknown Clostridiales [meta_mOTU_v2_5849]	0	0	3	603	6	164	NA
+unknown Bacteroidales [meta_mOTU_v2_5852]	NA	167	32	0	NA	178	NA
+unknown Sutterella [meta_mOTU_v2_5857]	13	42	NA	4	65	201	NA
+unknown Dialister [meta_mOTU_v2_5867]	760	594	611	509	387	801	NA
+Oscillibacter sp. CAG:155 [meta_mOTU_v2_5868]	1	4	65	357	502	145	NA
+Clostridium sp. CAG:524 [meta_mOTU_v2_5874]	6	78	NA	0	45	128	NA
+unknown Clostridiales [meta_mOTU_v2_5880]	23	107	33	31	2	310	NA
+unknown Roseburia [meta_mOTU_v2_5883]	0	613	NA	0	108	541	NA
+unknown Clostridiales [meta_mOTU_v2_5890]	1	119	22	0	NA	112	NA
+unknown Clostridiales [meta_mOTU_v2_5894]	1	45	16	0	90	246	NA
+Prevotella sp. CAG:1092 [meta_mOTU_v2_5903]	21	57	NA	NA	208	162	NA
+unknown Clostridiales [meta_mOTU_v2_5904]	41	378	144	0	77	163	NA
+unknown Clostridiales [meta_mOTU_v2_5905]	NA	NA	49	0	136	185	NA
+uncultured Clostridium sp. [meta_mOTU_v2_5907]	2	215	239	0	2	441	NA
+Clostridium sp. CAG:451 [meta_mOTU_v2_5908]	2	NA	NA	0	NA	143	NA
+unknown Firmicutes [meta_mOTU_v2_5910]	7	105	NA	41	37	135	NA
+Clostridium sp. CAG:780 [meta_mOTU_v2_5914]	1	108	90	0	131	102	NA
+unknown Clostridium [meta_mOTU_v2_5915]	2	47	34	0	8	118	NA
+unknown Clostridiales [meta_mOTU_v2_5922]	2	98	35	0	66	245	NA
+unknown Clostridium [meta_mOTU_v2_5927]	2	190	NA	6	116	205	NA
+unknown Sutterella [meta_mOTU_v2_5929]	3	53	NA	0	77	121	NA
+unknown Bacilli [meta_mOTU_v2_5934]	0	27	33	0	4	100	NA
+unknown Clostridium [meta_mOTU_v2_5940]	9	331	NA	0	58	137	NA
+unknown Oscillibacter [meta_mOTU_v2_5944]	0	0	7	0	577	48	NA
+unknown Tyzzerella [meta_mOTU_v2_5947]	85	276	10	0	528	753	NA
+unknown Bacteroidales [meta_mOTU_v2_5951]	35	53	44	NA	86	150	NA
+unknown Clostridiales [meta_mOTU_v2_5954]	0	13	81	0	29	98	NA
+unknown Clostridiales [meta_mOTU_v2_5959]	473	5	21	0	3	43	NA
+unknown Clostridiales [meta_mOTU_v2_5961]	8	197	6	0	128	27	NA
+Ruminococcus sp. CAG:254 [meta_mOTU_v2_5967]	623	26	59	281	28	432	NA
+Eggerthella sp. CAG:298 [meta_mOTU_v2_5975]	6	3	236	4	0	105	NA
+unknown Clostridiales [meta_mOTU_v2_5978]	626	0	577	0	0	124	NA
+unknown Sutterella [meta_mOTU_v2_5982]	9	28	NA	0	66	126	NA
+unknown Clostridium [meta_mOTU_v2_5983]	15	13	465	0	107	616	NA
+unknown Bacteroidales [meta_mOTU_v2_5989]	NA	NA	67	1	NA	182	NA
+unknown Clostridiales [meta_mOTU_v2_5991]	0	33	17	0	5	71	NA
+unknown Desulfovibrio [meta_mOTU_v2_5993]	1	303	16	0	380	62	NA
+unknown Clostridiales [meta_mOTU_v2_6000]	0	6	7	1	3	70	NA
+Clostridium sp. CAG:465 [meta_mOTU_v2_6001]	2	134	40	0	37	97	NA
+unknown Clostridiales [meta_mOTU_v2_6009]	746	549	56	0	379	786	NA
+unknown Clostridiales [meta_mOTU_v2_6011]	12	118	59	0	162	164	NA
+unknown Clostridiales [meta_mOTU_v2_6013]	0	3	20	249	1	152	NA
+unknown Clostridiales [meta_mOTU_v2_6022]	0	496	28	0	3	161	NA
+unknown Clostridiales [meta_mOTU_v2_6028]	0	0	57	0	2	72	NA
+unknown Prevotella [meta_mOTU_v2_6029]	NA	89	NA	0	NA	142	NA
+unknown Clostridiales [meta_mOTU_v2_6036]	117	15	NA	0	83	425	NA
+unknown Clostridium [meta_mOTU_v2_6039]	14	90	24	0	121	287	NA
+unknown Clostridiales [meta_mOTU_v2_6044]	0	30	20	2	0	61	NA
+unknown Clostridiales [meta_mOTU_v2_6049]	302	174	24	0	26	428	NA
+Anaeromassilibacillus sp. An200 [meta_mOTU_v2_6051]	13	47	32	0	94	110	NA
+unknown Eggerthellales [meta_mOTU_v2_6052]	0	32	42	0	9	121	NA
+unknown Clostridiales [meta_mOTU_v2_6054]	1	43	46	0	82	151	NA
+unknown Verrucomicrobia [meta_mOTU_v2_6061]	2	54	NA	0	132	144	NA
+unknown Acetobacter [meta_mOTU_v2_6063]	0	4	NA	0	150	78	NA
+unknown Alistipes [meta_mOTU_v2_6070]	45	3	36	0	1	106	NA
+unknown Parabacteroides [meta_mOTU_v2_6071]	70	87	74	0	248	91	NA
+unknown Clostridiales [meta_mOTU_v2_6073]	8	103	25	3	110	176	NA
+unknown Bacteria [meta_mOTU_v2_6079]	25	91	16	0	116	115	NA
+unknown Clostridiales [meta_mOTU_v2_6080]	2	94	NA	0	28	140	NA
+unknown Bacteria [meta_mOTU_v2_6087]	0	176	1	0	2	125	NA
+unknown Clostridiales [meta_mOTU_v2_6088]	0	0	629	0	0	636	NA
+Verrucomicrobia bacterium CAG:312_58_20 [meta_mOTU_v2_6090]	23	14	35	0	103	112	NA
+unknown Firmicutes [meta_mOTU_v2_6091]	0	480	0	0	563	460	NA
+unknown Clostridium [meta_mOTU_v2_6098]	14	106	NA	0	249	167	NA
+unknown Clostridiales [meta_mOTU_v2_6105]	58	658	645	0	199	773	NA
+unknown Clostridiales [meta_mOTU_v2_6107]	75	22	25	601	30	486	NA
+unknown Pseudoflavonifractor [meta_mOTU_v2_6108]	1	2	27	0	668	185	NA
+unknown Clostridium [meta_mOTU_v2_6117]	1	143	17	0	133	607	NA
+Clostridium sp. CAG:533 [meta_mOTU_v2_6119]	1	294	NA	NA	119	164	NA
+unknown Clostridiales [meta_mOTU_v2_6128]	1	73	40	15	120	292	NA
+Clostridium sp. CAG:964 [meta_mOTU_v2_6131]	2	88	NA	0	249	132	NA
+unknown Clostridiales [meta_mOTU_v2_6134]	0	718	59	0	293	713	NA
+unknown Clostridiales [meta_mOTU_v2_6144]	12	56	37	0	54	150	NA
+unknown Clostridium [meta_mOTU_v2_6147]	NA	118	154	NA	59	161	NA
+unknown Ruminococcus [meta_mOTU_v2_6152]	0	200	34	0	18	111	NA
+Alistipes sp. An31A [meta_mOTU_v2_6154]	54	79	NA	0	NA	142	NA
+unknown Clostridium [meta_mOTU_v2_6156]	15	68	38	278	249	270	NA
+Clostridium sp. CAG:288 [meta_mOTU_v2_6160]	1	274	NA	2	63	425	NA
+unknown Bacteroidales [meta_mOTU_v2_6162]	0	66	140	0	49	130	NA
+unknown Ruminococcaceae [meta_mOTU_v2_6174]	0	0	412	0	544	31	NA
+unknown Roseburia [meta_mOTU_v2_6176]	31	NA	78	0	117	133	NA
+Clostridium sp. CAG:510 [meta_mOTU_v2_6178]	1	NA	39	0	NA	134	NA
+unknown Clostridiales [meta_mOTU_v2_6190]	54	0	164	0	6	63	NA
+unknown Clostridiales Family XIII. Incertae Sedis [meta_mOTU_v2_6192]	0	123	34	483	558	204	NA
+unknown Clostridiales [meta_mOTU_v2_6193]	29	70	44	0	28	141	NA
+unknown Bacteroidales [meta_mOTU_v2_6194]	2	77	NA	4	NA	173	NA
+unknown Clostridiales [meta_mOTU_v2_6197]	0	9	8	3	484	45	NA
+uncultured Eubacterium sp. [meta_mOTU_v2_6201]	432	84	47	0	5	138	NA
+unknown Bacteroidales [meta_mOTU_v2_6217]	0	90	NA	0	12	46	NA
+Clostridium sp. CAG:343 [meta_mOTU_v2_6218]	416	130	12	7	1	532	NA
+Clostridium sp. CAG:533 [meta_mOTU_v2_6224]	48	NA	NA	0	182	243	NA
+unknown Firmicutes [meta_mOTU_v2_6228]	1	80	NA	0	210	165	NA
+unknown Clostridiales [meta_mOTU_v2_6233]	84	349	44	0	0	564	NA
+unknown Firmicutes [meta_mOTU_v2_6237]	1	90	27	4	28	159	NA
+unknown Clostridiales [meta_mOTU_v2_6238]	162	84	132	0	286	179	NA
+unknown Clostridiales [meta_mOTU_v2_6249]	1	6	41	150	184	131	NA
+unknown Alistipes [meta_mOTU_v2_6252]	305	139	47	0	387	85	NA
+unknown Coprococcus [meta_mOTU_v2_6257]	8	422	45	0	153	390	NA
+unknown Clostridiales [meta_mOTU_v2_6259]	13	460	46	0	13	396	NA
+unknown Clostridiales [meta_mOTU_v2_6260]	8	66	NA	NA	16	125	NA
+unknown Clostridiales [meta_mOTU_v2_6261]	228	645	23	0	0	741	NA
+unknown Dehalococcoidales [meta_mOTU_v2_6270]	0	205	34	281	251	43	NA
+unknown Clostridiales [meta_mOTU_v2_6272]	0	0	1	0	601	383	NA
+unknown Clostridiales [meta_mOTU_v2_6275]	0	49	28	0	115	105	NA
+unknown Akkermansia [meta_mOTU_v2_6276]	10	47	40	0	29	73	NA
+unknown Firmicutes [meta_mOTU_v2_6277]	1	107	35	26	391	100	NA
+unknown Clostridiales [meta_mOTU_v2_6281]	6	97	36	0	31	117	NA
+unknown Clostridium [meta_mOTU_v2_6285]	10	61	41	0	40	199	NA
+unknown Lactobacillales [meta_mOTU_v2_6288]	0	12	13	0	85	113	NA
+unknown Prevotella [meta_mOTU_v2_6289]	9	76	NA	NA	43	177	NA
+unknown Clostridium [meta_mOTU_v2_6292]	1	328	38	3	90	262	NA
+unknown Prevotella [meta_mOTU_v2_6294]	0	76	45	4	NA	106	NA
+unknown Firmicutes [meta_mOTU_v2_6303]	2	507	42	0	126	252	NA
+Eggerthella sp. CAG:368 [meta_mOTU_v2_6312]	0	89	69	0	2	101	NA
+Brachyspira sp. CAG:484 [meta_mOTU_v2_6314]	19	50	NA	0	99	147	NA
+unknown Clostridiales [meta_mOTU_v2_6316]	1	44	35	0	262	101	NA
+unknown Firmicutes [meta_mOTU_v2_6331]	0	2	74	0	306	16	NA
+Roseburia sp. CAG:182 [meta_mOTU_v2_6334]	14	207	33	44	93	118	NA
+unknown Dehalococcoidales [meta_mOTU_v2_6336]	19	39	NA	4	507	51	NA
+unknown Clostridium [meta_mOTU_v2_6338]	NA	168	NA	NA	73	159	NA
+Merdibacter massiliensis [meta_mOTU_v2_6340]	10	3	39	0	350	151	NA
+unknown Clostridiales [meta_mOTU_v2_6348]	0	3	17	0	0	85	NA
+unknown Clostridium [meta_mOTU_v2_6349]	7	171	47	107	132	250	NA
+unknown Clostridium [meta_mOTU_v2_6363]	1	55	62	4	77	134	NA
+unknown Clostridiales [meta_mOTU_v2_6371]	10	0	16	0	0	117	NA
+unknown Bacteroidales [meta_mOTU_v2_6375]	2	59	58	0	195	137	NA
+uncultured Clostridium sp. [meta_mOTU_v2_6381]	0	6	24	393	42	127	NA
+unknown Prevotella [meta_mOTU_v2_6387]	1	69	50	NA	122	123	NA
+Coprobacillus sp. CAG:826 [meta_mOTU_v2_6390]	72	158	NA	0	131	206	NA
+Sutterella sp. CAG:521 [meta_mOTU_v2_6395]	1	73	29	6	NA	134	NA
+unknown Prevotella [meta_mOTU_v2_6399]	2	53	30	NA	111	80	NA
+Dialister invisus [meta_mOTU_v2_6402]	0	22	35	0	666	186	NA
+Mycoplasma sp. CAG:472 [meta_mOTU_v2_6403]	0	148	30	354	460	99	NA
+unknown Clostridiales [meta_mOTU_v2_6407]	0	695	7	0	572	740	NA
+Firmicutes bacterium ADurb.Bin467 [meta_mOTU_v2_6414]	2	8	26	384	2	142	NA
+unknown Prevotella [meta_mOTU_v2_6415]	3	52	61	NA	99	137	NA
+unknown Clostridiales [meta_mOTU_v2_6416]	0	103	46	0	156	149	NA
+unknown Clostridiales [meta_mOTU_v2_6419]	58	0	7	0	677	544	NA
+unknown Prevotella [meta_mOTU_v2_6430]	1	88	NA	0	93	151	NA
+unknown Eggerthellaceae [meta_mOTU_v2_6437]	10	96	39	NA	NA	151	NA
+unknown Oscillibacter [meta_mOTU_v2_6438]	319	303	71	0	122	616	NA
+unknown Faecalibacterium [meta_mOTU_v2_6452]	537	707	454	0	0	817	NA
+unknown Prevotella [meta_mOTU_v2_6456]	0	NA	NA	NA	NA	125	NA
+unknown Atopobiaceae [meta_mOTU_v2_6458]	0	16	34	0	14	158	NA
+unknown Clostridiales [meta_mOTU_v2_6465]	NA	190	NA	4	241	132	NA
+Clostridium sp. CAG:609 [meta_mOTU_v2_6466]	0	NA	34	0	314	141	NA
+Holdemanella biformis [meta_mOTU_v2_6468]	6	125	NA	4	NA	172	NA
+unknown Clostridiales [meta_mOTU_v2_6475]	581	13	49	129	26	26	NA
+Clostridium sp. CAG:1219 [meta_mOTU_v2_6476]	2	120	NA	0	114	152	NA
+unknown Ruminococcaceae [meta_mOTU_v2_6478]	0	35	523	0	0	636	NA
+unknown Clostridiales [meta_mOTU_v2_6484]	10	59	31	0	104	107	NA
+unknown Porphyromonas [meta_mOTU_v2_6490]	18	408	67	459	108	606	NA
+unknown Clostridiales [meta_mOTU_v2_6495]	0	28	23	0	89	94	NA
+unknown Bacteroidales [meta_mOTU_v2_6502]	NA	114	NA	NA	144	149	NA
+unknown Clostridiales [meta_mOTU_v2_6503]	7	35	56	13	57	137	NA
+unknown Eubacterium [meta_mOTU_v2_6509]	255	0	600	0	2	541	NA
+unknown Clostridiales [meta_mOTU_v2_6511]	2	94	29	0	260	382	NA
+unknown Prevotella [meta_mOTU_v2_6516]	0	38	93	NA	23	129	NA
+Lentisphaerae bacterium ADurb.Bin242 [meta_mOTU_v2_6522]	0	83	33	0	54	104	NA
+unknown Clostridiales [meta_mOTU_v2_6523]	1	NA	NA	NA	189	158	NA
+unknown Clostridiales [meta_mOTU_v2_6525]	13	2	40	0	1	77	NA
+unknown Azospirillum [meta_mOTU_v2_6527]	0	27	68	0	83	89	NA
+unknown Bacteroidales [meta_mOTU_v2_6528]	12	81	NA	0	53	113	NA
+Ruminococcus sp. CAG:382 [meta_mOTU_v2_6530]	3	110	NA	0	31	128	NA
+Coprobacillus sp. CAG:826 [meta_mOTU_v2_6536]	16	97	NA	0	NA	151	NA
+unknown Clostridiales [meta_mOTU_v2_6548]	0	42	48	0	14	120	NA
+unknown Ruminococcaceae [meta_mOTU_v2_6557]	0	0	475	0	0	172	NA
+Clostridium sp. CAG:628 [meta_mOTU_v2_6559]	1	186	NA	1	35	177	NA
+unknown Clostridiales [meta_mOTU_v2_6561]	5	0	44	0	510	481	NA
+unknown Clostridiales [meta_mOTU_v2_6571]	1	39	4	145	62	117	NA
+unknown Clostridiales [meta_mOTU_v2_6575]	17	52	9	0	1	91	NA
+unknown Clostridiales [meta_mOTU_v2_6585]	19	5	41	0	36	128	NA
+unknown Bacteroidales [meta_mOTU_v2_6591]	1	363	47	0	NA	185	NA
+unknown Firmicutes [meta_mOTU_v2_6595]	108	168	44	0	104	258	NA
+unknown Firmicutes [meta_mOTU_v2_6596]	1	163	NA	NA	NA	NA	NA
+unknown Clostridiales [meta_mOTU_v2_6602]	750	0	653	0	60	781	NA
+unknown Lachnospiraceae [meta_mOTU_v2_6615]	17	18	216	0	1	142	NA
+unknown Atopobiaceae [meta_mOTU_v2_6622]	18	25	NA	0	88	124	NA
+unknown Lachnospiraceae [meta_mOTU_v2_6625]	26	110	NA	0	140	172	NA
+unknown Clostridiales [meta_mOTU_v2_6629]	8	24	79	0	334	61	NA
+unknown Faecalibacterium [meta_mOTU_v2_6631]	0	658	603	0	0	745	NA
+unknown Clostridiales [meta_mOTU_v2_6632]	660	0	571	0	0	710	NA
+unknown Clostridiales [meta_mOTU_v2_6647]	9	105	52	48	271	140	NA
+unknown Azospirillum [meta_mOTU_v2_6649]	22	87	NA	1	NA	164	NA
+unknown Ruminococcaceae [meta_mOTU_v2_6652]	8	0	28	0	376	434	NA
+unknown Eubacterium [meta_mOTU_v2_6657]	0	3	5	0	1	45	NA
+unknown Prevotella [meta_mOTU_v2_6663]	4	NA	36	NA	NA	134	NA
+Ruminococcus sp. CAG:177 [meta_mOTU_v2_6664]	0	667	28	0	747	786	NA
+unknown Bacteroidales [meta_mOTU_v2_6670]	1	3	NA	0	95	65	NA
+unknown Clostridiales [meta_mOTU_v2_6672]	0	687	398	404	6	739	NA
+Oscillibacter sp. 57_20 [meta_mOTU_v2_6676]	0	7	3	0	545	48	NA
+Mycoplasma sp. CAG:877 [meta_mOTU_v2_6682]	NA	NA	NA	4	115	165	NA
+unknown Clostridiales [meta_mOTU_v2_6686]	0	107	18	0	30	231	NA
+unknown Methanomicrobia [meta_mOTU_v2_6693]	1	100	NA	0	NA	144	NA
+unknown Prevotella [meta_mOTU_v2_6697]	12	134	NA	NA	207	162	NA
+unknown Clostridiales [meta_mOTU_v2_6699]	38	0	353	0	0	602	NA
+unknown Clostridiales [meta_mOTU_v2_6700]	1	118	67	420	4	559	NA
+unknown Clostridiales [meta_mOTU_v2_6704]	1	59	36	0	39	166	NA
+Bacillus sp. CAG:988 [meta_mOTU_v2_6706]	15	NA	NA	0	54	181	NA
+unknown Firmicutes [meta_mOTU_v2_6711]	39	120	77	3	346	89	NA
+unknown Clostridiales [meta_mOTU_v2_6716]	0	24	41	0	1	137	NA
+unknown Clostridiales [meta_mOTU_v2_6721]	0	0	558	0	674	14	NA
+Roseburia sp. CAG:303 [meta_mOTU_v2_6722]	19	43	205	0	272	368	NA
+unknown Ruminococcus [meta_mOTU_v2_6724]	3	154	NA	9	129	162	NA
+unknown Ruminococcus [meta_mOTU_v2_6727]	1	171	70	0	92	130	NA
+unknown Firmicutes [meta_mOTU_v2_6730]	0	138	301	51	50	86	NA
+Clostridium sp. CAG:762 [meta_mOTU_v2_6739]	1	NA	69	0	75	129	NA
+unknown Clostridium [meta_mOTU_v2_6741]	0	74	406	0	1	207	NA
+Clostridium sp. CAG:798 [meta_mOTU_v2_6742]	0	44	96	3	224	54	NA
+unknown Clostridiales [meta_mOTU_v2_6751]	1	19	26	0	259	114	NA
+unknown Firmicutes [meta_mOTU_v2_6758]	1	115	NA	0	146	142	NA
+unknown Clostridiales [meta_mOTU_v2_6760]	0	0	14	0	2	42	NA
+unknown Veillonellaceae [meta_mOTU_v2_6765]	12	108	44	NA	NA	169	NA
+Subdoligranulum sp. CAG:314 [meta_mOTU_v2_6768]	21	2	140	0	24	119	NA
+unknown Flavobacteriia [meta_mOTU_v2_6771]	20	329	NA	0	138	149	NA
+unknown Collinsella [meta_mOTU_v2_6772]	3	51	46	0	65	135	NA
+Clostridium sp. CAG:914 [meta_mOTU_v2_6776]	2	98	46	0	NA	124	NA
+unknown Clostridiales [meta_mOTU_v2_6777]	570	2	77	0	17	620	NA
+Clostridium sp. CAG:1024 [meta_mOTU_v2_6786]	NA	88	NA	0	115	151	NA
+unknown Clostridiales [meta_mOTU_v2_6787]	0	34	548	0	1	694	NA
+Clostridium sp. CAG:710 [meta_mOTU_v2_6788]	2	NA	NA	NA	120	143	NA
+unknown Ruminococcaceae [meta_mOTU_v2_6789]	9	231	12	0	30	518	NA
+unknown Clostridiales [meta_mOTU_v2_6791]	451	452	55	0	233	463	NA
+unknown Clostridium [meta_mOTU_v2_6792]	0	303	0	0	0	28	NA
+Roseburia sp. CAG:309 [meta_mOTU_v2_6793]	0	37	35	527	1	421	NA
+unknown Clostridiales [meta_mOTU_v2_6795]	0	0	1	0	0	17	NA
+unknown Clostridiales [meta_mOTU_v2_6801]	0	0	256	0	1	61	NA
+unknown Clostridiaceae [meta_mOTU_v2_6802]	1	56	44	0	78	147	NA
+unknown Clostridiales [meta_mOTU_v2_6807]	0	0	20	0	516	198	NA
+unknown Clostridiales [meta_mOTU_v2_6808]	5	28	451	0	2	73	NA
+unknown Eggerthellaceae [meta_mOTU_v2_6813]	0	0	91	0	0	49	NA
+unknown Clostridiales [meta_mOTU_v2_6814]	9	107	45	0	93	144	NA
+Dialister sp. CAG:357 [meta_mOTU_v2_6815]	12	138	1	NA	480	53	NA
+unknown Clostridium [meta_mOTU_v2_6816]	1	63	32	212	248	384	NA
+Burkholderiales bacterium YL45 [meta_mOTU_v2_6818]	4	118	39	0	NA	189	NA
+unknown Clostridiales [meta_mOTU_v2_6819]	7	0	0	0	1	25	NA
+unknown Dehalococcoidales [meta_mOTU_v2_6821]	0	146	43	0	66	109	NA
+unknown Clostridiales [meta_mOTU_v2_6823]	20	123	24	0	132	87	NA
+unknown Clostridiales [meta_mOTU_v2_6832]	0	0	0	0	0	30	NA
+Prevotella sp. CAG:617 [meta_mOTU_v2_6833]	6	NA	38	NA	71	161	NA
+unknown Clostridiales [meta_mOTU_v2_6834]	0	0	17	708	0	753	NA
+unknown Anaerotruncus [meta_mOTU_v2_6835]	474	582	59	4	417	710	NA
+unknown Firmicutes [meta_mOTU_v2_6848]	NA	NA	NA	1	240	172	NA
+unknown Ruminococcaceae [meta_mOTU_v2_6850]	1	0	22	0	0	70	NA
+unknown Clostridiales [meta_mOTU_v2_6852]	610	6	545	0	55	703	NA
+unknown Clostridiales [meta_mOTU_v2_6856]	1	11	38	0	330	137	NA
+unknown Pasteurellaceae [meta_mOTU_v2_6865]	0	29	449	0	241	113	NA
+unknown Clostridiales [meta_mOTU_v2_6867]	NA	71	43	0	NA	152	NA
+Roseburia sp. 40_7 [meta_mOTU_v2_6875]	0	0	10	369	1	202	NA
+unknown Clostridium [meta_mOTU_v2_6877]	4	71	13	294	418	634	NA
+unknown Clostridium [meta_mOTU_v2_6883]	3	0	49	0	0	251	NA
+unknown Clostridiales [meta_mOTU_v2_6885]	0	4	18	0	0	65	NA
+unknown Clostridiales [meta_mOTU_v2_6891]	13	97	20	3	80	259	NA
+Clostridium sp. CAG:628 [meta_mOTU_v2_6892]	3	297	75	NA	65	144	NA
+unknown Bacteroidales [meta_mOTU_v2_6903]	2	44	NA	0	29	107	NA
+unknown Ruminococcaceae [meta_mOTU_v2_6905]	0	0	646	0	0	440	NA
+unknown Firmicutes [meta_mOTU_v2_6906]	NA	79	NA	0	NA	NA	NA
+unknown Firmicutes [meta_mOTU_v2_6909]	66	372	NA	9	150	102	NA
+unknown Prevotella [meta_mOTU_v2_6911]	NA	76	138	NA	NA	168	NA
+unknown Veillonellaceae [meta_mOTU_v2_6915]	10	78	NA	3	285	162	NA
+unknown Clostridiales [meta_mOTU_v2_6916]	0	0	0	0	16	19	NA
+unknown Peptostreptococcaceae [meta_mOTU_v2_6922]	0	31	25	0	1	110	NA
+unknown Clostridiales [meta_mOTU_v2_6926]	1	38	21	0	474	67	NA
+unknown Clostridiales [meta_mOTU_v2_6929]	133	14	79	5	325	273	NA
+unknown Firmicutes [meta_mOTU_v2_6936]	1	45	NA	11	67	96	NA
+unknown Lachnospiraceae [meta_mOTU_v2_6937]	656	347	647	0	9	731	NA
+Prevotella sp. CAG:279 [meta_mOTU_v2_6938]	0	3	13	0	4	37	NA
+Staphylococcus sp. CAG:324 [meta_mOTU_v2_6946]	0	0	NA	17	186	70	NA
+unknown Bacteroidales [meta_mOTU_v2_6949]	NA	75	NA	1	60	167	NA
+unknown Clostridiales [meta_mOTU_v2_6961]	12	109	44	0	87	113	NA
+unknown Clostridiales [meta_mOTU_v2_6975]	0	3	51	0	6	133	NA
+unknown Lentisphaerae [meta_mOTU_v2_6979]	0	2	44	0	111	106	NA
+unknown Clostridiales [meta_mOTU_v2_6986]	57	0	38	0	7	64	NA
+unknown Synergistaceae [meta_mOTU_v2_6989]	9	46	41	0	116	382	NA
+unknown Eggerthella [meta_mOTU_v2_6998]	0	24	66	0	146	78	NA
+unknown Acinetobacter [meta_mOTU_v2_7007]	0	0	40	654	2	260	NA
+unknown Massiliomicrobiota [meta_mOTU_v2_7010]	6	16	29	2	1	100	NA
+unknown Ruminococcaceae [meta_mOTU_v2_7012]	1	753	208	1	44	621	NA
+unknown Clostridiales [meta_mOTU_v2_7014]	1	0	20	460	2	112	NA
+unknown Prevotella [meta_mOTU_v2_7015]	1	43	NA	NA	284	100	NA
+unknown Prevotella [meta_mOTU_v2_7016]	0	300	30	4	20	66	NA
+unknown Clostridiales [meta_mOTU_v2_7018]	15	7	242	0	147	117	NA
+Clostridium sp. CAG:798 [meta_mOTU_v2_7020]	22	142	158	NA	240	120	NA
+unknown Clostridium [meta_mOTU_v2_7026]	NA	58	NA	0	35	136	NA
+unknown Clostridiales [meta_mOTU_v2_7031]	34	0	528	0	16	96	NA
+Prevotella sp. CAG:485 [meta_mOTU_v2_7045]	1	NA	31	0	NA	144	NA
+unknown Ruminococcus [meta_mOTU_v2_7048]	26	NA	12	0	120	90	NA
+Prevotella sp. CAG:873 [meta_mOTU_v2_7050]	19	59	NA	0	282	252	NA
+unknown Sutterellaceae [meta_mOTU_v2_7053]	1	11	94	0	47	83	NA
+Coraliomargarita sp. CAG:312 [meta_mOTU_v2_7055]	0	42	NA	0	60	131	NA
+Clostridium sp. CAG:167 [meta_mOTU_v2_7056]	1	130	NA	0	11	379	NA
+unknown Clostridiales [meta_mOTU_v2_7058]	10	107	NA	0	159	172	NA
+unknown Akkermansia [meta_mOTU_v2_7059]	0	163	14	0	149	44	NA
+unknown Clostridiales [meta_mOTU_v2_7061]	0	17	268	0	18	79	NA
+unknown Clostridiales [meta_mOTU_v2_7063]	11	NA	NA	0	123	146	NA
+unknown Clostridiales [meta_mOTU_v2_7066]	0	111	21	0	411	173	NA
+unknown Clostridiales [meta_mOTU_v2_7067]	5	182	43	0	37	115	NA
+unknown Clostridiales [meta_mOTU_v2_7072]	NA	114	NA	0	46	149	NA
+Clostridium sp. CAG:411 [meta_mOTU_v2_7074]	NA	156	NA	0	73	142	NA
+unknown Clostridiales [meta_mOTU_v2_7076]	112	0	483	132	1	478	NA
+unknown Eggerthella [meta_mOTU_v2_7082]	227	0	34	0	0	113	NA
+unknown Clostridiales [meta_mOTU_v2_7083]	24	49	43	0	NA	139	NA
+unknown Clostridiales [meta_mOTU_v2_7087]	11	NA	NA	0	142	173	NA
+Eubacterium sp. CAG:581 [meta_mOTU_v2_7088]	1	76	19	0	23	149	NA
+unknown Bacteroidales [meta_mOTU_v2_7089]	38	104	59	0	49	156	NA
+unknown Clostridiales [meta_mOTU_v2_7093]	0	26	7	0	0	45	NA
+unknown Clostridiales [meta_mOTU_v2_7097]	4	12	21	0	0	58	NA
+Prevotella sp. CAG:1031 [meta_mOTU_v2_7101]	21	69	135	0	198	179	NA
+unknown Clostridiales [meta_mOTU_v2_7104]	1	698	4	1	0	284	NA
+unknown Oscillibacter [meta_mOTU_v2_7111]	14	10	40	170	24	141	NA
+unknown Eubacterium [meta_mOTU_v2_7116]	1	46	NA	0	121	153	NA
+Clostridium sp. CAG:452 [meta_mOTU_v2_7118]	29	353	43	0	412	64	NA
+unknown Clostridium [meta_mOTU_v2_7123]	1	118	NA	0	55	164	NA
+unknown Clostridiales [meta_mOTU_v2_7124]	0	93	25	0	34	85	NA
+unknown Clostridiales [meta_mOTU_v2_7130]	539	651	9	0	11	100	NA
+unknown Clostridiales [meta_mOTU_v2_7138]	1	171	43	1	97	130	NA
+Eubacterium sp. CAG:274 [meta_mOTU_v2_7140]	0	3	2	0	1	73	NA
+unknown Faecalibacterium [meta_mOTU_v2_7143]	18	28	522	0	1	178	NA
+unknown Clostridiales [meta_mOTU_v2_7145]	1	67	NA	4	75	134	NA
+unknown Clostridiales [meta_mOTU_v2_7148]	0	45	NA	93	285	113	NA
+unknown Clostridiales [meta_mOTU_v2_7149]	0	30	37	0	2	97	NA
+Clostridium sp. CAG:413 [meta_mOTU_v2_7152]	1	78	70	0	54	267	NA
+unknown Clostridiales [meta_mOTU_v2_7153]	8	75	41	0	21	81	NA
+Faecalibacterium prausnitzii [meta_mOTU_v2_7154]	0	19	4	0	47	71	NA
+unknown Clostridiales [meta_mOTU_v2_7156]	26	38	31	0	19	130	NA
+unknown Clostridiales [meta_mOTU_v2_7157]	0	19	19	341	37	409	NA
+unknown Clostridiales [meta_mOTU_v2_7158]	478	258	9	0	6	96	NA
+unknown Ruminococcus [meta_mOTU_v2_7159]	NA	166	NA	NA	NA	NA	NA
+unknown Clostridiales [meta_mOTU_v2_7173]	5	59	22	368	97	368	NA
+unknown Firmicutes [meta_mOTU_v2_7175]	0	59	0	9	254	37	NA
+unknown Clostridiales [meta_mOTU_v2_7180]	0	0	0	0	0	11	NA
+Clostridium sp. CAG:302 [meta_mOTU_v2_7183]	0	233	0	0	0	65	NA
+unknown Clostridiales [meta_mOTU_v2_7186]	4	22	416	7	2	291	NA
+Clostridium sp. CAG:226 [meta_mOTU_v2_7187]	0	0	75	0	135	14	NA
+unknown Clostridiales [meta_mOTU_v2_7188]	8	54	50	0	18	113	NA
+unknown Clostridiales [meta_mOTU_v2_7192]	0	8	37	0	2	94	NA
+unknown Prevotella [meta_mOTU_v2_7196]	3	54	NA	0	21	106	NA
+unknown Clostridiales [meta_mOTU_v2_7200]	1	51	44	3	46	146	NA
+unknown Clostridiales [meta_mOTU_v2_7202]	1	NA	NA	NA	NA	NA	NA
+unknown Prevotella [meta_mOTU_v2_7203]	2	59	90	0	31	94	NA
+unknown Clostridiales [meta_mOTU_v2_7209]	18	279	34	0	120	286	NA
+unknown Bacteroidaceae [meta_mOTU_v2_7210]	NA	75	46	NA	204	153	NA
+unknown Clostridiales [meta_mOTU_v2_7230]	348	69	89	25	48	232	NA
+unknown Clostridium [meta_mOTU_v2_7253]	32	30	59	0	1	38	NA
+Clostridium sp. CAG:451 [meta_mOTU_v2_7262]	1	77	44	0	13	99	NA
+Clostridium sp. AT4 [meta_mOTU_v2_7263]	57	0	18	0	79	28	NA
+unknown Clostridium [meta_mOTU_v2_7266]	17	80	40	0	34	103	NA
+unknown Alistipes [meta_mOTU_v2_7270]	9	156	NA	0	NA	106	NA
+unknown Ruminococcaceae [meta_mOTU_v2_7271]	12	54	47	14	123	107	NA
+unknown Ruminococcus [meta_mOTU_v2_7275]	1	97	3	0	2	76	NA
+Succinivibrio dextrinosolvens [meta_mOTU_v2_7277]	1	NA	60	NA	NA	116	NA
+Staphylococcus sp. CAG:324 [meta_mOTU_v2_7279]	0	143	42	0	16	114	NA
+unknown Clostridiales [meta_mOTU_v2_7281]	1	3	19	0	373	111	NA
+Dialister invisus [meta_mOTU_v2_7291]	1	75	51	NA	NA	136	NA
+unknown Clostridiales [meta_mOTU_v2_7298]	8	1	40	0	2	113	NA
+Sutterella sp. CAG:351 [meta_mOTU_v2_7305]	3	27	509	0	152	113	NA
+unknown Clostridiales [meta_mOTU_v2_7306]	0	35	28	0	1	101	NA
+unknown Alistipes [meta_mOTU_v2_7311]	62	209	NA	0	106	141	NA
+unknown Bacteroidales [meta_mOTU_v2_7313]	147	43	37	3	82	147	NA
+unknown Clostridiales [meta_mOTU_v2_7317]	364	59	30	0	1	433	NA
+unknown Prevotellaceae [meta_mOTU_v2_7319]	2	76	48	NA	61	115	NA
+unknown Clostridiales [meta_mOTU_v2_7320]	64	94	18	0	64	141	NA
+unknown Clostridiales [meta_mOTU_v2_7323]	1	284	NA	0	56	222	NA
+Bacteroides sp. CAG:144 [meta_mOTU_v2_7324]	8	0	NA	0	17	76	NA
+Eubacterium sp. CAG:156 [meta_mOTU_v2_7325]	0	0	5	1	21	172	NA
+Holdemanella biformis [meta_mOTU_v2_7329]	1	38	17	0	54	84	NA
+unknown Peptostreptococcaceae [meta_mOTU_v2_7331]	613	4	446	0	15	615	NA
+unknown Clostridiales [meta_mOTU_v2_7337]	617	1	29	4	510	645	NA
+unknown Prevotella [meta_mOTU_v2_7342]	7	37	70	11	41	93	NA
+unknown Bacteroidales [meta_mOTU_v2_7353]	12	NA	NA	0	NA	138	NA
+unknown Clostridiales [meta_mOTU_v2_7355]	0	4	9	0	0	32	NA
+unknown Clostridiales [meta_mOTU_v2_7356]	272	776	341	0	1	784	NA
+unknown Clostridiales [meta_mOTU_v2_7359]	14	84	48	0	92	121	NA
+unknown Firmicutes [meta_mOTU_v2_7361]	0	20	27	0	162	557	NA
+unknown Fusobacterium [meta_mOTU_v2_7372]	NA	NA	33	2	97	129	NA
+unknown Dehalococcoidales [meta_mOTU_v2_7373]	36	42	50	0	103	499	NA
+unknown Ruminococcaceae [meta_mOTU_v2_7375]	49	77	49	0	115	134	NA
+Clostridium sp. CAG:448 [meta_mOTU_v2_7377]	0	13	38	0	73	99	NA
+unknown Clostridium [meta_mOTU_v2_7389]	2	171	NA	4	112	141	NA
+unknown Bacteroidales [meta_mOTU_v2_7394]	NA	NA	NA	0	NA	168	NA
+unknown Lachnospiraceae [meta_mOTU_v2_7398]	NA	102	NA	0	NA	175	NA
+unknown Ruminococcaceae [meta_mOTU_v2_7401]	16	67	NA	0	49	224	NA
+unknown Firmicutes [meta_mOTU_v2_7403]	1	118	NA	0	NA	166	NA
+Bacteroides sp. 43_108 [meta_mOTU_v2_7407]	12	99	NA	0	78	158	NA
+unknown Clostridiales [meta_mOTU_v2_7415]	1	31	36	0	9	213	NA
+unknown Firmicutes [meta_mOTU_v2_7419]	26	215	NA	0	32	166	NA
+unknown Tyzzerella [meta_mOTU_v2_7425]	403	315	166	0	3	673	NA
+unknown Dehalococcoidales [meta_mOTU_v2_7432]	1	504	NA	0	250	92	NA
+unknown Burkholderiales [meta_mOTU_v2_7434]	1	0	394	0	60	80	NA
+unknown Clostridiales [meta_mOTU_v2_7440]	6	23	17	0	111	99	NA
+Eubacterium sp. CAG:202 [meta_mOTU_v2_7449]	0	0	3	0	0	20	NA
+Clostridium sp. CAG:217 [meta_mOTU_v2_7451]	0	0	4	0	0	85	NA
+unknown Firmicutes [meta_mOTU_v2_7454]	3	42	37	0	237	137	NA
+unknown Clostridiales [meta_mOTU_v2_7455]	0	1	18	0	1	107	NA
+unknown Clostridiales [meta_mOTU_v2_7462]	14	30	NA	0	195	115	NA
+unknown Clostridiales [meta_mOTU_v2_7467]	1	71	NA	0	22	126	NA
+unknown Clostridium [meta_mOTU_v2_7468]	2	59	69	0	NA	143	NA
+Anaerotruncus sp. CAG:528 [meta_mOTU_v2_7471]	NA	83	NA	7	238	162	NA
+unknown Ruminococcus [meta_mOTU_v2_7476]	221	3	42	0	243	107	NA
+unknown Clostridium [meta_mOTU_v2_7480]	13	105	41	0	78	149	NA
+unknown Eggerthella [meta_mOTU_v2_7512]	10	76	NA	NA	99	144	NA
+unknown Sutterella [meta_mOTU_v2_7526]	1	40	NA	0	44	108	NA
+unknown Clostridiales [meta_mOTU_v2_7527]	0	13	3	0	1	111	NA
+unknown Clostridium [meta_mOTU_v2_7530]	677	544	435	0	0	677	NA
+unknown Clostridiales [meta_mOTU_v2_7531]	0	40	494	0	4	131	NA
+unknown Bacteroidaceae [meta_mOTU_v2_7534]	24	207	46	NA	NA	149	NA
+unknown Clostridiales [meta_mOTU_v2_7541]	1	71	46	11	157	131	NA
+unknown Clostridiales [meta_mOTU_v2_7546]	0	0	8	0	1	35	NA
+unknown Clostridiales [meta_mOTU_v2_7550]	52	213	43	0	340	147	NA
+unknown Clostridiales [meta_mOTU_v2_7553]	225	409	423	774	71	779	NA
+unknown Clostridiales [meta_mOTU_v2_7561]	1	37	24	0	0	88	NA
+unknown Roseburia [meta_mOTU_v2_7567]	210	135	31	0	97	305	NA
+Clostridium sp. CAG:492 [meta_mOTU_v2_7568]	1	371	448	0	7	483	NA
+unknown Collinsella [meta_mOTU_v2_7573]	1	6	41	1	0	94	NA
+unknown Bacteroidaceae [meta_mOTU_v2_7579]	1	74	34	0	261	115	NA
+unknown Bacteroidaceae [meta_mOTU_v2_7587]	48	105	40	0	138	148	NA
+Holdemanella biformis [meta_mOTU_v2_7589]	0	5	0	2	1	5	NA
+unknown Clostridiales [meta_mOTU_v2_7590]	1	32	36	5	2	151	NA
+unknown Bacteroidaceae [meta_mOTU_v2_7591]	13	86	77	0	NA	173	NA
+unknown Ruminococcaceae [meta_mOTU_v2_7593]	8	2	27	0	3	130	NA
+Mycoplasma sp. CAG:956 [meta_mOTU_v2_7596]	123	NA	NA	16	NA	403	NA
+unknown Clostridiales [meta_mOTU_v2_7600]	1	89	35	4	230	357	NA
+unknown Azospirillum [meta_mOTU_v2_7608]	1	119	47	0	NA	143	NA
+Niameybacter massiliensis [meta_mOTU_v2_7610]	1	57	NA	3	119	135	NA
+Clostridium sp. CAG:1193 [meta_mOTU_v2_7613]	1	118	50	9	85	125	NA
+Sutterella sp. CAG:351 [meta_mOTU_v2_7614]	1	48	NA	0	NA	138	NA
+unknown Clostridiales [meta_mOTU_v2_7620]	0	292	47	0	217	172	NA
+Coprobacillus sp. CAG:605 [meta_mOTU_v2_7625]	1	167	NA	0	263	420	NA
+Clostridium sp. CAG:433 [meta_mOTU_v2_7638]	1	102	17	0	143	178	NA
+unknown Clostridiales [meta_mOTU_v2_7643]	0	0	66	0	0	63	NA
+unknown Clostridium [meta_mOTU_v2_7645]	29	6	NA	0	60	63	NA
+unknown Pasteurellaceae [meta_mOTU_v2_7650]	1	74	191	0	21	121	NA
+unknown Ruminococcaceae [meta_mOTU_v2_7652]	6	577	61	0	0	516	NA
+unknown Porphyromonas [meta_mOTU_v2_7656]	285	648	61	512	609	785	NA
+Sutterella sp. CAG:521 [meta_mOTU_v2_7660]	1	82	70	0	120	140	NA
+Holdemanella biformis [meta_mOTU_v2_7667]	1	50	NA	0	15	113	NA
+Eubacterium sp. CAG:38 [meta_mOTU_v2_7668]	4	0	304	0	1	95	NA
+unknown Azospirillum [meta_mOTU_v2_7674]	10	120	NA	0	81	128	NA
+unknown Clostridiales [meta_mOTU_v2_7682]	0	36	400	0	609	527	NA
+unknown Clostridiales [meta_mOTU_v2_7684]	18	44	NA	0	42	156	NA
+unknown Clostridiales [meta_mOTU_v2_7685]	13	184	37	NA	117	175	NA
+unknown Eubacterium [meta_mOTU_v2_7687]	1	48	27	0	1	112	NA
+unknown Firmicutes [meta_mOTU_v2_7689]	11	301	54	4	13	300	NA
+unknown Eggerthella [meta_mOTU_v2_7693]	NA	121	NA	NA	80	160	NA
+unknown Clostridiales [meta_mOTU_v2_7697]	2	52	NA	0	25	116	NA
+unknown Clostridiales [meta_mOTU_v2_7702]	0	52	63	0	179	88	NA
+unknown Clostridiales [meta_mOTU_v2_7707]	180	448	46	0	30	281	NA
+unknown Clostridiales [meta_mOTU_v2_7717]	4	33	3	0	0	42	NA
+unknown Faecalibacterium [meta_mOTU_v2_7718]	1	481	395	0	1	578	NA
+unknown Clostridium [meta_mOTU_v2_7721]	45	55	48	0	217	105	NA
+unknown Sutterella [meta_mOTU_v2_7723]	4	38	NA	0	38	122	NA
+unknown Olsenella [meta_mOTU_v2_7727]	457	41	47	NA	103	389	NA
+unknown Clostridiales [meta_mOTU_v2_7731]	30	NA	39	NA	NA	150	NA
+unknown Clostridiales [meta_mOTU_v2_7735]	3	90	24	0	393	129	NA
+unknown Azospirillum [meta_mOTU_v2_7737]	1	35	NA	0	274	69	NA
+unknown Firmicutes [meta_mOTU_v2_7746]	0	43	38	402	23	162	NA
+unknown Bacteroidales [meta_mOTU_v2_7748]	1	109	46	NA	NA	151	NA
+unknown Clostridium [meta_mOTU_v2_7749]	1	13	50	63	67	90	NA
+unknown Firmicutes [meta_mOTU_v2_7751]	NA	91	NA	0	54	151	NA
+unknown Clostridiales [meta_mOTU_v2_7752]	10	NA	21	0	158	115	NA
+Ruminococcus sp. CAG:724 [meta_mOTU_v2_7753]	36	161	NA	NA	NA	174	NA
+unknown Firmicutes [meta_mOTU_v2_7755]	6	57	54	0	122	156	NA
+unknown Firmicutes [meta_mOTU_v2_7760]	1	101	42	0	64	131	NA
+Clostridium sp. CAG:138 [meta_mOTU_v2_7765]	0	0	9	0	697	99	NA
+unknown Clostridiales [meta_mOTU_v2_7769]	8	45	41	0	16	123	NA
+Staphylococcus sp. CAG:324 [meta_mOTU_v2_7772]	1	88	52	4	185	174	NA
+Ruminococcus sp. CAG:403 [meta_mOTU_v2_7774]	0	100	39	0	457	135	NA
+unknown Porphyromonas [meta_mOTU_v2_7777]	NA	247	NA	217	94	418	NA
+unknown Clostridiales [meta_mOTU_v2_7778]	0	1	33	0	69	64	NA
+unknown Clostridiales [meta_mOTU_v2_7781]	25	1	NA	0	1	102	NA
+unknown Clostridiales [meta_mOTU_v2_7782]	575	3	48	444	1	633	NA
+unknown Clostridiales [meta_mOTU_v2_7784]	14	476	56	0	465	536	NA
+Clostridium sp. CAG:230 [meta_mOTU_v2_7788]	288	91	51	0	95	667	NA
+Clostridium sp. CAG:1193 [meta_mOTU_v2_7789]	3	NA	NA	0	111	163	NA
+unknown Erysipelotrichaceae [meta_mOTU_v2_7790]	4	86	31	228	485	95	NA
+unknown Clostridiales [meta_mOTU_v2_7795]	455	0	30	0	51	100	NA
+unknown Clostridiales [meta_mOTU_v2_7800]	0	24	27	0	15	72	NA

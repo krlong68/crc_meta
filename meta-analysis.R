@@ -1,6 +1,9 @@
 library(curatedMetagenomicData)
-library(OmicsMLRepoR)
 library(tidyverse)
+
+# Personal wd setup
+setwd("/home/kaelyn/Desktop/Work/crc_meta/src")
+options(timeout = 1000)
 
 # Step 1. Native Run
 # Run necessary portions of prepare_data.R to retrieve relative abundances and
@@ -9,16 +12,16 @@ library(tidyverse)
 # figure_marker_heatmap.R (tag = "species")
 
 # Step 2. Collect potential cMD studies for meta-analysis
-studies <- c("FengQ_2015",
-             "GuptaA_2019",
+#native_studies <- c("ZellerG_2014",
+#                    "FengQ_2015",
+#                    "YuJ_2015",
+#                    "VogtmannE_2016")
+studies <- c("GuptaA_2019",
              "HanniganGD_2017",
              "ThomasAM_2018a",
              "ThomasAM_2018b",
              "ThomasAM_2019_c",
-             "VogtmannE_2016",
-             "YachidaS_2019",
-             "YuJ_2015",
-             "ZellerG_2014")
+             "YachidaS_2019")
 pattern <- paste(paste0(studies, ".relative_abundance"), collapse = "|")
 curatedMetagenomicData(pattern, dryrun = TRUE)
 collected_studies <- curatedMetagenomicData(pattern,
@@ -41,12 +44,13 @@ f_meta <- s_meta %>%
            Age = age_years,
            Gender = sex,
            BMI = bmi,
-           Group = control) %>%
+           Group = control,
+           AJCC_stage = tumor_staging_ajcc) %>%
     mutate(Gender = ifelse(Gender == "Male", "M", "F")) %>%
     mutate(Group = ifelse(Group == "Case", "CRC", "CTR"))
 
-study_colors <- list("#D962BA", "#FF9774", "#F2CC30", "#74B347", "#177254",
-                     "#2FBFBF", "#1178D8", "#8265CC", "#4A4453", "#D5CABD")
+study_colors <- list("#FF9774", "#F2CC30", "#74B347",
+                     "#2FBFBF", "#1178D8", "#8265CC")
 names(study_colors) <- studies
 
 # Step 5. Run
@@ -57,6 +61,20 @@ meta <- f_meta
 # figure_marker_heatmap.R
 ref.studies <- studies
 study.colors <- study_colors
+
+# cluster_species.R
+meta <- f_meta
+feat <- comb_assays
+study.colors <- study_colors
+
+# train_models.R
+meta <- f_meta
+feat.all <- comb_assays
+ref.studies <- studies
+
+# figure_performance.R
+meta <- f_meta
+ref.studies <- studies
 ########################################
 
 #cMD_curated_meta <- read.csv("/home/kaelyn/Desktop/Work/OmicsMLRepoData/inst/extdata/cMD_curated_metadata_all.csv")
